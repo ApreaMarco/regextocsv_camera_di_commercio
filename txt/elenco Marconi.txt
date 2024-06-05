@@ -1,0 +1,1856 @@
+﻿22/04/24, 09:48 Ulisse — InfoCamere   
+Camera di Commercio di VERONA 
+Elenco VR1352516951 del 19/04/2024 13:31:06 
+Imprese con PEC (solo ad uso interno) ordinato per [comune + denominazione] Utente: CVR0373 
+Posizioni: 128 
+Note: 
+Elenco per Istituto Marconi 
+Criteri: 
+Impresa - Tipo localizzazione 
+Sede di Impresa 
+Impresa - Natura giuridica 
+SOCIETA' DI CAPITALE 
+Impresa - Geografia impresa 
+VERONA 
+Impresa - Attività ISTAT 2007 
+61 - TELECOMUNICAZIONI 
+62 - PRODUZIONE DI SOFTWARE, CONSULENZA INFORMATICA E ATTIVIT... Impresa - Importanza att. ISTAT 
+Attivita' prevalente d'impresa 
+Attivita' primaria 
+Impresa - Valore della produzione 
+>500.000 a 750.000 
+>750.000 a 1.000.000 
+>1.000.000 a 1.500.000 
+>1.500.000 a 2.500.000 
+>2.500.000 a 3.500.000 
+>3.500.000 a 5.000.000 
+>5.000.000 a 15.000.000 
+>15.000.000 a 25.000.000 
+>25.000.000 a 50.000.000 
+>50.000.000 a 150.000.000 
+>150.000.000 a 250.000.000 
+>250.000.000 a 500.000.000 
+> oltre 500.000.000 
+Impresa - Stato impresa 
+Attiva 
+Inattiva 
+Sospesa 
+Impresa - Procedure in corso 
+Nessuna procedura
+ulisse.intra.infocamere.it/ulis/get-document-content.action 1/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+1) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 31/03/2011 
+N.REA: 385038 F.G.: SR 
+Denominazione: 4SERVICE SOLUTION S.R.L. 
+C.fiscale: 04021010238 Partita IVA: 04021010238 
+Indirizzo: VIA GIOVANNI PASCOLI, 4 
+Comune: 37010 AFFI - VR 
+Indirizzo posta certificata: AMMINISTRAZIONE@PEC.4SERVICESOLUTION.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 15 
+Data inizio attività: 01/05/2011 
+Attività: LA PROGETTAZIONE, LA PRODUZIONE, LA PROMOZIONE, LA FORNITURA DI SISTEMI E SERVIZI INFORMATICI (DAL 01/05/2011) 
+C. Attività: 62.01 P / 62.02 S / 62.09 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+2) Prov: VR NRI: (VR-1997-206988) Sezioni RI: O - E 
+Data iscrizione RI: 19/05/1997 
+N.REA: 281758 F.G.: SR 
+Denominazione: HIT INTERNET TECHNOLOGIES S.R.L 
+C.fiscale: 02763990237 Partita IVA: 02763990237 
+Telefono: 045/6209711 
+Indirizzo: VIA PACE, 5 
+Comune: 37010 AFFI - VR 
+Indirizzo posta certificata: AMMINISTRAZIONE@PEC.HIT.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 29 
+Data inizio attività: 15/06/1997 
+Attività: PRODUZIONE DI SOFTWARE 
+C. Attività: 62.01 P 
+Capitale Sociale: deliberato 1.166.000,00 
+Valuta capitale sociale: EURO 
+3) Prov: VR NRI: (VR-1999-29829) Sezioni RI: O - E 
+Data iscrizione RI: 06/05/1999 
+N.REA: 296199 F.G.: SR 
+Denominazione: HYPHEN- GROUP S.R.L. 
+C.fiscale: 04334860485 Partita IVA: 02926170230 
+Indirizzo: VIA MARCONI, 14 
+Comune: 37010 AFFI - VR 
+Indirizzo posta certificata: INFO@PEC.HYPHEN-GROUP.COM 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 71 
+Data inizio attività: 03/02/1999 
+Attività: SVILUPPO SOFTWARE E ASSEMBLAGGIO HARDWARE, ASSISTENZA E MANUTENZIONE DEI SISTEMI VENDUTI, APPRONTAMENTO DI PROGRAMMI INFORMATICI PER ATTIVITA' EDITORIALE E RELATIVA CONSULENZA, ATTIVITA' EDITORIALE (SOLO LIBRI) COMMERCIO ALL'INGROSSO DI PRODOTTI INFORMATICI FABBRICAZIONE HARDWARE E SOFTWARE PER L'INFORMATICA C. Attività: 62.01 P / 26.2 S / 46.51 S / 58.11 S 
+Capitale Sociale: deliberato 115.000,00 
+Valuta capitale sociale: EURO 
+4) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 09/11/2009 
+N.REA: 374425 F.G.: SR 
+Denominazione: ASTEN S.R.L. 
+C.fiscale: 03895960239 Partita IVA: 03895960239 
+Indirizzo: PIAZZA UNITA' D'ITALIA, 7 
+Comune: 37041 ALBAREDO D'ADIGE - VR 
+Indirizzo posta certificata: ASTEN@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 14 
+Data inizio attività: 26/11/2009 
+Attività: PRODUZIONE DI SOFTWARE (DAL 01/11/2021) 
+C. Attività: 62.01 I / 62.01 P / 43.21.01 S / 43.21.02 S / 46.51 S / 47.41 S / 61.90.1 S / 61.90.91 S / 62.02 S / 63.11.3 S / 73.12 S / 77.33 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+5) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 28/12/2006 
+N.REA: 353138 F.G.: SR
+ulisse.intra.infocamere.it/ulis/get-document-content.action 2/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Denominazione: VTENEXT S.R.L. SOCIETA' BENEFIT 
+C.fiscale: 03641400233 Partita IVA: 03641400233 
+Indirizzo: VIA ALZANA 2/C 
+Comune: 37040 ARCOLE - VR 
+Indirizzo posta certificata: CRMVILLAGE@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 19 
+Data inizio attività: 07/12/2006 
+Attività: ALTRE REALIZZAZIONI DI SOFTWARE E CONSULENZA SOFTWARE DAL 07/12/06. C. Attività: 62.01 P 
+Capitale Sociale: deliberato 1.000.000,00 
+Valuta capitale sociale: EURO 
+6) Prov: VR Sezioni RI: O - M - E 
+Data iscrizione RI: 18/03/2019 
+N.REA: 436267 F.G.: SR 
+Denominazione: BIT MOBILITY SRL 
+C.fiscale: 04630310235 Partita IVA: 04630310235 
+Indirizzo: VIA G. ROSSINI 29/2 
+Comune: 37012 BUSSOLENGO - VR 
+Indirizzo posta certificata: DIREZIONE@PEC.BITMOBILITY.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 109 
+Data inizio attività: 18/03/2019 
+Attività: LA PROGETTAZIONE, LO SVILUPPO, LA PRODUZIONE DI SOFTWARE, DI HARDWARE, DI RETI DI CALCOLO, DI SERVIZI INFORMATICI, E TUTTO QUANTO AFFINE E/O CONNESSO CON IL SETTORE DELL'INFORMATICA E DELLE RETI, CON PARTICOLARE RIFERIMENTO ALL'APPLICAZIONE NEL MONDO DELLA MOBILITA' URBANA LA PROGETTAZIONE, LO SVILUPPO, LA REALIZZAZIONE DI PRODOTTI INNOVATIVI PER LA MOBILITA' URBANA, QUALI MONOPATTINI, SCOOTER, BI 
+C. Attività: 62.01 I / 62.01 P / 77.39.1 S 
+Capitale Sociale: deliberato 200.000,00 
+Valuta capitale sociale: EURO 
+7) Prov: VR Sezioni RI: O - A - E 
+Data iscrizione RI: 27/01/2012 
+N.REA: 390301 F.G.: SR 
+Denominazione: DEVINTERFACE S.R.L. 
+C.fiscale: 04080300231 Partita IVA: 04080300231 
+Indirizzo: VIA GUGLIELMO MARCONI, 20 
+Comune: 37012 BUSSOLENGO - VR 
+Indirizzo posta certificata: DEVINTERFACE@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 2 dipendenti: 8 
+Data inizio attività: 01/02/2012 
+Attività: SOFTWARE, REALIZZAZIONE E CONSULENZA IN MATERIA INFORMATICA C. Attività: 62.01 I / 62.01 P 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+8) Prov: VR NRI: (VR-1999-66607) Sezioni RI: O - E 
+Data iscrizione RI: 20/12/1999 
+N.REA: 300162 F.G.: SR 
+Denominazione: WINDEX S.R.L. 
+C.fiscale: 02986820237 Partita IVA: 02986820237 
+Indirizzo: VIA SANTA CHIARA, 22 
+Comune: 37012 BUSSOLENGO - VR 
+Indirizzo posta certificata: WINDEXPEC@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 6 
+Data inizio attività: 17/12/1999 
+Attività: INGEGNERIZZAZIONE, PRODUZIONE DI PROGRAMMI PER ELABORATORI ELETTRONICI E INTERNET SERVIZI DI VENDITA, INSTALLAZIONE, FORMAZIONE, AVVIAMENTO DI SISTEMI INFORMATIVI E INFORMATICI DA NOI PRODOTTI (DAL 17/12/1999) ELABORAZIONE E REGISTRAZIONE ELETTRONICA DI DATI PER CONTO TERZI (DAL 01/01/2008) 
+C. Attività: 62.01 P / 63.11.1 S 
+Capitale Sociale: deliberato 102.000,00 
+Valuta capitale sociale: EURO 
+9) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 22/11/2007 
+N.REA: 360529 F.G.: SR 
+Denominazione: IBIC S.R.L. 
+C.fiscale: 03727120234 Partita IVA: 03727120234
+ulisse.intra.infocamere.it/ulis/get-document-content.action 3/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Indirizzo: VIA ROSA, 7 
+Comune: 37042 CALDIERO - VR 
+Indirizzo posta certificata: IBIC@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 1 dipendenti: 6 
+Data inizio attività: 14/11/2007 
+Attività: SOFTWARE, REALIZZAZIONE E CONSULENZA IN MATERIA DI INFORMATICA (DAL 14/11/2007). C. Attività: 62.01 P 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+10) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 29/01/2001 
+N.REA: 308230 F.G.: SR 
+Denominazione: DIEFFE INFORMATICA S.R.L. 
+C.fiscale: 03096180231 Partita IVA: 03096180231 
+Indirizzo: VIA CASTELLO, 9 
+Comune: 37060 CASTEL D'AZZANO - VR 
+Indirizzo posta certificata: DIEFFEINFORMATICA@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 1 dipendenti: 7 
+Data inizio attività: 31/01/2001 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE 
+C. Attività: 62.01 I / 62.01 P / 46.51 S / 62.02 S 
+Capitale Sociale: deliberato 10.500,00 
+Valuta capitale sociale: EURO 
+11) Prov: VR NRI: (VR-1998-18028) Sezioni RI: O - E 
+Data iscrizione RI: 18/03/1998 
+N.REA: 288133 F.G.: SR 
+Denominazione: TEK SERVICE SRL 
+C.fiscale: 02831920232 Partita IVA: 02831920232 
+Telefono: 045/581031 
+Indirizzo: VIA PISACANE 2/A 
+Comune: 37060 CASTEL D'AZZANO - VR 
+Indirizzo posta certificata: CERTIFICATA@PEC.TEKSERVICE.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 13 
+Data inizio attività: 01/04/1998 
+Attività: ANALISI E CONSULENZA SOFTWARE 
+C. Attività: 62.01 P / 62.02 S 
+Capitale Sociale: deliberato 23.400,00 
+Valuta capitale sociale: EURO 
+12) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 19/10/2017 
+N.REA: 427008 F.G.: SR 
+Denominazione: CINQUENET S.R.L. 
+C.fiscale: 04517090231 Partita IVA: 04517090231 
+Indirizzo: VICOLO FRESCA' 5/A 
+Comune: 37053 CEREA - VR 
+Indirizzo posta certificata: CERT@PEC.CINQUENET.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 6 
+Data inizio attività: 11/10/2017 
+Attività: EROGAZIONE DI SERVIZI DI ACCESSO AD INTERNET (ISP) (DAL 02/03/2018). ACQUISTO E RIVENDITA DI CAPACITA' DI RETE SENZA EROGAZIONE DI SERVIZI AGGIUNTIVI. EROGAZIONE DI SERVIZI DI TELECOMUNICAZIONE SU CONNESSIONI TELEFONICHE PREESISTENTI: EROGAZIONE DI SERVIZI VOIP (DAL 02/03/2018). 
+C. Attività: 61.90.1 I / 61.90.1 P / 43.21.01 S / 43.21.02 S / 43.22.01 S / 46.14.03 S / 61.90.91 S / 61.90.99 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+13) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 15/02/2017 
+N.REA: 422969 F.G.: SR 
+Denominazione: VENETCOM SRL 
+C.fiscale: 04469990230 Partita IVA: 04469990230 
+Indirizzo: VIA DELL'ARTIGIANATO, 1 
+Comune: 37053 CEREA - VR 
+Indirizzo posta certificata: VENETCOMSRL@PEC.AGENZIATELECOM.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 37
+ulisse.intra.infocamere.it/ulis/get-document-content.action 4/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Data inizio attività: 23/02/2017 
+Attività: AGENTE DI COMMERCIO DI TELEFONIA MOBILE E FISSA (DAL 23/02/2017) C. Attività: 61.90.91 I / 61.90.91 P 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+14) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 13/02/2020 
+N.REA: 441923 F.G.: SR 
+Denominazione: VALUELEAF SRL 
+C.fiscale: 04700830237 Partita IVA: 04700830237 
+Indirizzo: VIA DANTE, 3 
+Comune: 37044 COLOGNA VENETA - VR 
+Indirizzo posta certificata: valueleaf@pec.it 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 1 
+Data inizio attività: 18/02/2020 
+Attività: PROGETTAZIONE, SVILUPPO E CONSULENZA RELATIVI A SOLUZIONI TECNOLOGICHE E INFORMATICHE (DAL 18/02/2020). 
+C. Attività: 62.01 I / 62.01 P 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+15) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 09/06/2017 
+N.REA: 425269 F.G.: SR 
+Denominazione: NEOS ENERGY SOLUTIONS S.R.L. 
+C.fiscale: 04495660237 Partita IVA: 04495660237 
+Indirizzo: VIA XXIV MAGGIO, 55 
+Comune: 37030 COLOGNOLA AI COLLI - VR 
+Indirizzo posta certificata: MAIL@PEC.NEOS-ES.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 2 
+Data inizio attività: 08/06/2017 
+Attività: IMPLEMENTAZIONE E REALIZZAZIONE DI SISTEMI SOFTWARE DI ANALISI, ELABORAZIONE E GESTIONE DI DATI E SUPPORTO ALLE DECISIONI PER IL MERCATO ENERGETICO EUROPEO (DAL 08/06/2017) 
+C. Attività: 62.01 I / 62.01 P / 63.11.1 S 
+Capitale Sociale: deliberato 64.000,00 
+Valuta capitale sociale: EURO 
+16) Prov: VR NRI: (VR-1996-197691) Sezioni RI: O - E 
+Data iscrizione RI: 05/07/1996 
+N.REA: 255856 F.G.: SR 
+Denominazione: MICROMATICA S.R.L. 
+C.fiscale: 02699570236 Partita IVA: 02699570236 
+Indirizzo: VIA VITTORIO UGOLINI 2/A 
+Comune: 37022 FUMANE - VR 
+Indirizzo posta certificata: MICROMATICA@PEC.MICROMATICA.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 5 
+Data inizio attività: 04/11/1996 
+Attività: PRODUZIONE SOFTWARE. COMMERCIO ALL'INGROSSO DI COMPUTERS, MACCHINE ED ATTREZZATUE COMPUTERIZZATE IN GENERE, LORO PARTI E ACCESSORI, NONCHE' PRODOTTI PER COMPUTERS DI QUALUNQUE TIPO, SIA HARDWARE SIA SOFTWARE, DI ARTICOLI ATTREZZATURE, STRUMENI, APPARECCHI ED ARREDI PER USO MEDICO, CHIRURGICO E SPECIALISTICO. PRESTAZIONI DI SERVIZI TECNICI PER LA GESTIONE DEI COMPUTERS E DI MACCHINE ED ATTREZZATURE C. Attività: 62.02 I / 62.01 P / 46.46.3 S / 46.51 S / 46.66 S / 46.69 S / 95.11 S Capitale Sociale: deliberato 10.400,00 
+Valuta capitale sociale: EURO 
+17) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 25/02/2008 
+N.REA: 362766 F.G.: SR 
+Denominazione: SURFTECH S.R.L. 
+C.fiscale: 03755170234 Partita IVA: 03755170234 
+Indirizzo: VIA MONTECCHI 8/2 
+Comune: 37031 ILLASI - VR 
+Indirizzo posta certificata: SURFTECH@PEC.SURFTECH.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 11 
+Data inizio attività: 29/02/2008 
+Attività: PROGETTAZIONE, SVILUPPO E REALIZZAZIONE DI SOTTOSISTEMI E SISTEMI HARDWARE E
+ulisse.intra.infocamere.it/ulis/get-document-content.action 5/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+SOFTWARE PER L'ELABORAZIONE DATI, CHIAVI IN MANO. CONSULENZA NEL SETTORE DELLE TECNOLOGIE DELL'INFORMATICA (DAL 29/02/2008). 
+C. Attività: 62.02 I / 62.02 P / 62.01 S 
+Capitale Sociale: deliberato 100.000,00 
+Valuta capitale sociale: EURO 
+18) Prov: VR Sezioni RI: O - A - E 
+Data iscrizione RI: 11/11/2015 
+N.REA: 414669 F.G.: RS 
+Denominazione: DSP WEB SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA C.fiscale: 04370090237 Partita IVA: 04370090237 
+Indirizzo: PIAZZA DON CIRILLO BOSCAGIN, 11 
+Comune: 37045 LEGNAGO - VR 
+Indirizzo posta certificata: DSPWEB@PEC.IT 
+N.AA: VR-148432 Data dom./accert.: 05/01/2016 Data delibera: 15/02/2016 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 1 dipendenti: 4 
+Data inizio attività: 01/01/2016 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE (DAL 01/01/2016) ULTERIORI SPECIFICHE: PROGETTAZIONE DELLA STRUTTURA E DEI CONTENUTI E/O LA COMPILAZIONE DEI CODICI INFORMATICI NECESSARI PER LA CREAZIONE E IMPLEMENTAZIONE DI: SOFTWARE DI SISTEMA (INCLUSI GLI AGGIORNAMENTI), APPLICAZIONE DI SOFTWARE (INCLUSI GLI AGGIORNAMENTI), DATABASE, PAGINE WEB (DAL 01/01/2016) PERSONALIZZAZIONE DI SOFTWARE, ES C. Attività: 62.01 I / 62.01 A / 62.02 S 
+Capitale Sociale: deliberato 9.900,00 
+Valuta capitale sociale: EURO 
+19) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 25/01/2006 
+N.REA: 346256 F.G.: SR 
+Denominazione: ELINEA S.R.L. 
+C.fiscale: 03560780235 Partita IVA: 03560780235 
+Indirizzo: VIA PIETRO AVRESE, 12 
+Comune: 37045 LEGNAGO - VR 
+Indirizzo posta certificata: AMMINISTRAZIONE@PEC.ELINEA.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 4 
+Data inizio attività: 10/02/2006 
+Attività: FORNITURA DI SERVIZI NEL SETTORE DELLE TELECOMUNICAZIONI IN QUALITA' DI RESELLER E VOIP SERVICE PROVIDER, IN PARTICOLARE LA FORNITURA DI SERVIZI DI TELEFONIA TRADIZIONALE, TELEFONIA VOIP, CONNETTIVITA' INTERNET DIAL-UP, CONNETTIVITA' BROADBAND (ADSL, HDSL ECC.) (DAL 10/02/2006) 
+C. Attività: 61.1 P / 61.90.1 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+20) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 26/07/2013 
+N.REA: 400443 F.G.: SR 
+Denominazione: NETSTRATEGY SRL 
+C.fiscale: 04197660238 Partita IVA: 04197660238 
+Indirizzo: VIA CARLO MARIA CIPOLLA SNC 
+Comune: 37045 LEGNAGO - VR 
+Indirizzo posta certificata: FORBIT@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 28 
+Data inizio attività: 01/08/2013 
+Attività: SERVIZI PER CONDUZIONE DI CAMPAGNE PUBBLICITARIE E DI MARKETING E PER SVILUPPO VISIBILITA' DEI SITI WEB SUI MOTORI DI RICERCA (DAL 01/08/2013) 
+C. Attività: 62.09.09 I / 62.09.09 P / 47.91.1 S / 62.01 S / 62.02 S / 70.22.09 S / 73.11.02 S Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+21) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 24/12/2021 
+N.REA: 451904 F.G.: SR 
+Denominazione: ARBITEK S.R.L. 
+C.fiscale: 04861650234 Partita IVA: 04861650234 
+Indirizzo: VIA ARCHIMEDE, 10 
+Comune: 37024 NEGRAR DI VALPOLICELLA - VR 
+Indirizzo posta certificata: arbiteksrl@legalmail.it 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 9
+ulisse.intra.infocamere.it/ulis/get-document-content.action 6/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Data inizio attività: 01/01/2022 
+Attività: ATTIVITA' DI SERVIZI CONNESSI A TECNOLOGIA INFORMATICHE: EFFETTUAZIONE DI SERVIZI NEL CAMPO DELL'INFORMATICA QUALI L'ELABORAZIONE DI PROGRAMMI PER L'INFORMATICA, L'ASSISTENZA SOFTWARE ALLA CLIENTELA, L'EFFETTUAZIONE DI CORSI DI AGGIORNAMENTO PROGRAMMI E SIMILI, L'ASSISTENZA HARDWARE (DAL 01/01/2022). 
+C. Attività: 62.09.09 I / 62.09.09 P 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+22) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 18/04/2011 
+N.REA: 385423 F.G.: SR 
+Denominazione: AROMI SRL 
+C.fiscale: 04020930238 Partita IVA: 04020930238 
+Indirizzo: VIA CASETTE, 31 
+Comune: 37024 NEGRAR DI VALPOLICELLA - VR 
+Indirizzo posta certificata: AROMIGROUP@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 13 
+Data inizio attività: 21/06/2011 
+Attività: ATTIVITA' DI IDEAZIONE, PRODUZIONE E VENDITA DI SOLUZIONI SOFTWARE E WEB (DAL 21/06/2011) 
+C. Attività: 62.01 I / 62.01 P / 46.39.2 S 
+Capitale Sociale: deliberato 14.000,00 
+Valuta capitale sociale: EURO 
+23) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 08/08/2002 
+N.REA: 320552 F.G.: SR 
+Denominazione: INFOGEST SRL 
+C.fiscale: 03245370238 Partita IVA: 03245370238 
+Indirizzo: VIA POZZA STROA 4/A 
+Comune: 37024 NEGRAR DI VALPOLICELLA - VR 
+Frazione: MONTECCHIO 
+Indirizzo posta certificata: INFOGEST@PEC.INFOGESTSRL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 11 
+Data inizio attività: 01/08/2002 
+Attività: CONSULENZA INFORMATICA 
+C. Attività: 62.01 P 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+24) Prov: VR Sezioni RI: O 
+Data iscrizione RI: 05/06/2002 
+N.REA: 319323 F.G.: SR 
+Denominazione: ITER.NET S.R.L. 
+C.fiscale: 03232750236 Partita IVA: 03232750236 
+Indirizzo: VIA RISORGIMENTO, 94 
+Comune: 37026 PESCANTINA - VR 
+Indirizzo posta certificata: ITERNET@PEC.ITERNET.BIZ 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 7 
+Data inizio attività: 15/06/2002 
+Attività: INSTALLAZIONE, MANUTENZIONE E FORNITURA DI SOFTWARE E CONSULENZA IN MATERIA DI INFORMATICA. 
+C. Attività: 62.01 P 
+Capitale Sociale: deliberato 10.400,00 
+Valuta capitale sociale: EURO 
+25) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 12/02/2016 
+N.REA: 416560 F.G.: SR 
+Denominazione: 45 ENGINEERING S.R.L. 
+C.fiscale: 04395100235 Partita IVA: 04395100235 
+Indirizzo: VIA GIUSEPPE MAZZINI, 5 
+Comune: 37047 SAN BONIFACIO - VR 
+Indirizzo posta certificata: 45-ENG@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 7 
+Data inizio attività: 09/02/2016 
+Attività: SERVIZI DI IDEAZIONE, CREAZIONE, SVILUPPO, IMPLEMENTAZIONE, INGEGNERIZZAZIONE, PROTOTIPAZIONE, GESTIONE DI SISTEMI E PIATTAFORME INFORMATICHE ACCESSIBILI ATTRAVERSO
+ulisse.intra.infocamere.it/ulis/get-document-content.action 7/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+ANCHE LA RETE INTERNET E MOBILE VOLTE O MENO ALLO SCAMBIO DI INFORMAZIONI, FILE E DOCUMENTI TRA UTENTI DA APPLICARE A QUALSIASI SETTORE (DAL 09/02/2016) C. Attività: 62.09.09 I / 62.09.09 P / 72.19.09 S / 82.99.99 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+26) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 17/07/2018 
+N.REA: 432086 F.G.: SR 
+Denominazione: GRUPPO TELENIA S.R.L. 
+C.fiscale: 04576910238 Partita IVA: 04576910238 
+Indirizzo: VIA MARCO MINGHETTI, 19 
+Comune: 37047 SAN BONIFACIO - VR 
+Indirizzo posta certificata: GRUPPOTELENIA@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 13 Data inizio attività: 04/08/2018 
+Attività: PRESTAZIONE DI SERVIZI NEL SETTORE DELL'INFORMATICA (PERSONALIZZAZIONE, MONITORAGGIO E GESTIONE DI SISTEMI IT E IN PARTICOLARE MULTICHANNEL CONTACT CENTER SUPPORTO E FORMAZIONE AL LORO UTILIZZO. CONFIGURAZIONE E ATTIVAZIONE DI SERVIZI AUTOMATICI (BOT) BASATI SU INTELLIGENZA ARTIFICIALE. PROGETTAZIONE E REALIZZAZIONE DI INFRASTRUTTURE ICT ATTRAVERSO L'UTILIZZO DI PIATTAFORME CLOUD E HYBRID CLOUD. S C. Attività: 62.02 I / 62.02 P / 62.09.09 S / 63.11.11 S / 64.2 S / 68.20.01 S / 70.22.09 S Capitale Sociale: deliberato 100.000,00 
+Valuta capitale sociale: EURO 
+27) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 21/12/2009 
+N.REA: 375137 F.G.: SR 
+Denominazione: TELENIA SOFTWARE S.R.L. 
+C.fiscale: 03904720236 Partita IVA: 03904720236 
+Indirizzo: VIA MARCO MINGHETTI, 18 
+Comune: 37047 SAN BONIFACIO - VR 
+Indirizzo posta certificata: TELENIASOFTWARESRL@LEGALMAIL.IT 
+N.AA: VR-137273 Data dom./accert.: 21/01/2010 Data delibera: 25/02/2010 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 2 dipendenti: 15 Data inizio attività: 21/12/2009 
+Attività: PRODUZIONE DI SOFTWARE (DAL 21/12/2009) 
+C. Attività: 62.01 I / 62.01 P / 62.09.09 S 
+Capitale Sociale: deliberato 50.000,00 
+Valuta capitale sociale: EURO 
+28) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 16/12/2013 
+N.REA: 402562 F.G.: SR 
+Denominazione: VALIDUS S.R.L. 
+C.fiscale: 04220520235 Partita IVA: 04220520235 
+Indirizzo: VIA ANTONIO PIGAFETTA, 47 
+Comune: 37047 SAN BONIFACIO - VR 
+Indirizzo posta certificata: VALIDUS.SRL@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 7 
+Data inizio attività: 28/01/2014 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE (DAL 28/01/2014) C. Attività: 62.01 I / 62.01 P 
+Capitale Sociale: deliberato 15.000,00 
+Valuta capitale sociale: EURO 
+29) Prov: VR NRI: (VR091-40139) Sezioni RI: O - E 
+Data iscrizione RI: 19/02/1996 
+N.REA: 245526 Data iscrizione RD: 09/08/1994 F.G.: SR 
+Denominazione: AQUEST S.R.L. 
+C.fiscale: 02552210235 Partita IVA: 02552210235 
+Indirizzo: VIA F. GAROFOLI 233/B 
+Comune: 37057 SAN GIOVANNI LUPATOTO - VR 
+Indirizzo posta certificata: AQUEST@LEGALMAIL.IT 
+N.AA: VR-84820 Data delibera: 20/12/1995 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 79 Data inizio attività: 25/07/1994 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE (DAL 09/10/2017) C. Attività: 62.01 I / 62.01 P
+ulisse.intra.infocamere.it/ulis/get-document-content.action 8/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Capitale Sociale: deliberato 25.000,00 
+Valuta capitale sociale: EURO 
+30) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 18/05/2011 
+N.REA: 386078 F.G.: SR 
+Denominazione: BPS COMPUTER SRL 
+C.fiscale: 04032690234 Partita IVA: 04032690234 
+Indirizzo: VIA IV NOVEMBRE, 17 
+Comune: 37057 SAN GIOVANNI LUPATOTO - VR 
+Indirizzo posta certificata: BPSCOMPUTERSRL@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 1 dipendenti: 0 
+Data inizio attività: 30/05/2011 
+Attività: SERVIZI DI REALIZZAZIONE E CONSULENZA IN MATERIA INFORMATICA E NEL SETTORE DELLE TECNOLOGIE IN GENERE. CONFIGURAZIONE DI PERSONAL COMPUTER. PRODUZIONE E CREAZIONE DI SOFTWARE (DAL 30/05/2011). 
+C. Attività: 62.02 P / 47.41 S / 62.01 S / 62.03 S / 62.09.01 S / 63.11.3 S / 77.33 S / 95.11 S Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+31) Prov: VR Sezioni RI: O - U - E 
+Data iscrizione RI: 31/05/2018 
+N.REA: 431412 F.G.: SR 
+Denominazione: DOTTOR MARC S.R.L. 
+C.fiscale: 04569090238 Partita IVA: 04569090238 
+Indirizzo: VIA CA' NOVA ZAMPIERI 4/E 
+Comune: 37057 SAN GIOVANNI LUPATOTO - VR 
+Indirizzo posta certificata: DOTTORMARCSRL@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 2 dipendenti: 6 
+Data inizio attività: 11/06/2018 
+Attività: SERVIZI DI CONSULENZA TECNICA IN MATERIA INFORMATICA (DAL 11/06/2018). C. Attività: 62.02 I / 62.02 P / 46.51 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+32) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 20/11/2002 
+N.REA: 322390 F.G.: SR 
+Denominazione: AP CONSULTING S.R.L. 
+C.fiscale: 03266170236 Partita IVA: 03266170236 
+Indirizzo: VIA ARCHIMEDE, 10 
+Comune: 37036 SAN MARTINO BUON ALBERGO - VR 
+Indirizzo posta certificata: INFO@PEC.APCONSULTING.NET 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 5 dipendenti: 21 
+Data inizio attività: 25/10/2002 
+Attività: CONSULENZA NEL SETTORE DELLE TECNOLOGIE E DELL'INFORMATICA (DAL 17.03.2014) C. Attività: 62.02 I / 62.02 P / 58.29 S / 62.01 S 
+Capitale Sociale: deliberato 100.000,00 
+Valuta capitale sociale: EURO 
+33) Prov: VR NRI: (VR091-34387) Sezioni RI: O - E 
+Data iscrizione RI: 19/02/1996 
+N.REA: 234904 Data iscrizione RD: 12/06/1992 F.G.: SR 
+Denominazione: EISEKO COMPUTERS S.R.L. 
+C.fiscale: 01795220233 Partita IVA: 01795220233 
+Indirizzo: VIALE DEL LAVORO, 17 
+Comune: 37036 SAN MARTINO BUON ALBERGO - VR 
+C. strad.: 01422 
+Indirizzo posta certificata: FRANCESCO.CENZON@INGPEC.EU 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 3 
+Data inizio attività: 15/02/1992 
+Attività: STUDIO E REALIZZAZIONE DI PROGRAMMI SOFTWARE 
+C. Attività: 62.01 P 
+Capitale Sociale: deliberato 20.000,00 
+Valuta capitale sociale: EURO 
+34) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 23/10/2002 
+N.REA: 321942 F.G.: SR
+ulisse.intra.infocamere.it/ulis/get-document-content.action 9/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Denominazione: E-TIME S.R.L. 
+C.fiscale: 03256040233 Partita IVA: 03256040233 
+Indirizzo: VIALE DEL LAVORO, 45 
+Comune: 37036 SAN MARTINO BUON ALBERGO - VR 
+Indirizzo posta certificata: E-TIME@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 36 
+Data inizio attività: 20/01/2003 
+Attività: FORNITURA DI SERVIZI DI SVILUPPO SOFTWARE DEL CLIENTE, STUDIO E PROGETTAZIONE DI RETI DATI INTEGRATE CON ELABORAZIONE DATI ESCLUSA LA VENDITA DI BENI. (DAL 20/01/2003) C. Attività: 62.01 P / 63.11.1 S 
+Capitale Sociale: deliberato 14.000,00 
+Valuta capitale sociale: EURO 
+35) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 01/03/2005 
+N.REA: 339744 F.G.: SR 
+Denominazione: INFORMETICA CONSULTING S.R.L. 
+C.fiscale: 03481480238 Partita IVA: 03481480238 
+Indirizzo: VIALE DEL LAVORO, 33 
+Comune: 37036 SAN MARTINO BUON ALBERGO - VR 
+Indirizzo posta certificata: AMMINISTRAZIONE@PEC.INFORMETICONS.COM 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 27 
+Data inizio attività: 17/02/2005 
+Attività: REALIZZAZIONI DI SOFTWARE E CONSULENZA SOFTWARE 
+C. Attività: 62.01 P / 62.02 S 
+Capitale Sociale: deliberato 120.000,00 
+Valuta capitale sociale: EURO 
+36) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 10/12/2020 
+N.REA: 445854 F.G.: SR 
+Denominazione: INNOTECH S.R.L. 
+C.fiscale: 04758110235 Partita IVA: 04758110235 
+Indirizzo: VIALE DEL LAVORO, 33 
+Comune: 37036 SAN MARTINO BUON ALBERGO - VR 
+Indirizzo posta certificata: info@pec.innotech.email 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 26 
+Data inizio attività: 14/12/2020 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE (DAL 18/01/2021). C. Attività: 62.01 I / 62.01 P / 62.09.09 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+37) Prov: VR NRI: (VR091-32592) Sezioni RI: O - E 
+Data iscrizione RI: 19/02/1996 
+N.REA: 229854 Data iscrizione RD: 09/07/1991 F.G.: SR 
+Denominazione: METLINE S.R.L. 
+C.fiscale: 02303550236 Partita IVA: 02303550236 
+Telefono: 045/8788211 
+Indirizzo: VIA DEL LAVORO - CENTRO DIREZIONAL 
+Comune: 37036 SAN MARTINO BUON ALBERGO - VR 
+Indirizzo posta certificata: NOVASYSTEMSINDUSTRIA@PEC.LEONET.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 4 
+Data inizio attività: 15/07/1991 
+Attività: PRODUZIONE E ASSISTENZA SOFTWARE 
+C. Attività: 62.01 P 
+Capitale Sociale: deliberato 25.500,00 
+Valuta capitale sociale: EURO 
+38) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 02/08/2010 
+N.REA: 380184 F.G.: SR 
+Denominazione: NETSPIN LAB S.R.L. 
+C.fiscale: 03963880236 Partita IVA: 03963880236 
+Indirizzo: VIALE DEL LAVORO, 33 
+Comune: 37036 SAN MARTINO BUON ALBERGO - VR 
+Indirizzo posta certificata: NETSPINLAB@REGISTERPEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 6 
+Data inizio attività: 02/08/2010
+ulisse.intra.infocamere.it/ulis/get-document-content.action 10/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE (DAL 02/08/2010) C. Attività: 62.01 P / 62.03 S 
+Capitale Sociale: deliberato 54.000,00 
+Valuta capitale sociale: EURO 
+39) Prov: VR NRI: (VR091-40176) Sezioni RI: O - E 
+Data iscrizione RI: 19/02/1996 
+N.REA: 251355 Data iscrizione RD: 02/10/1995 F.G.: SR 
+Denominazione: NOVA SYSTEMS S.R.L. 
+C.fiscale: 02639010236 Partita IVA: 02639010236 
+Telefono: 045/8781143 
+Indirizzo: VIALE DEL LAVORO 39/A 
+Comune: 37036 SAN MARTINO BUON ALBERGO - VR 
+Indirizzo posta certificata: NOVASYSTEMS@PEC.NOVASYSTEMS.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 64 
+Data inizio attività: 29/01/2001 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE 
+C. Attività: 62.01 I / 62.01 P 
+Capitale Sociale: deliberato 83.301,40 
+Valuta capitale sociale: EURO 
+40) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 25/01/2005 
+N.REA: 338698 F.G.: SR 
+Denominazione: ENERJ S.R.L. 
+C.fiscale: 03466010232 Partita IVA: 03466010232 
+Indirizzo: VIA DIAZ, 4 
+Comune: 37015 SANT'AMBROGIO DI VALPOLICELLA - VR 
+Frazione: DOMEGLIARA 
+Indirizzo posta certificata: ENERJ@ACTALISPEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 51 
+Data inizio attività: 12/01/2005 
+Attività: ALTRE REALIZZAZIONI DI SOFTWARE E CONSULENZA SOFTWARE (DAL 12/01/2005) CONSULENZA PER INSTALLAZIONE DI SISTEMI HARDWARE (DAL 12/01/2005) COMMERCIO ALL'INGROSSO DI COMPUTER, APPARECCHIATURE INFORMATICHE PERIFERICHE E DI SOFTWARE (DAL 12/01/2005) 
+C. Attività: 62.01 P / 46.51 S 
+Capitale Sociale: deliberato 220.000,00 
+Valuta capitale sociale: EURO 
+41) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 19/05/2006 
+N.REA: 349278 F.G.: SR 
+Denominazione: KIPCAST S.R.L. 
+C.fiscale: 03595380233 Partita IVA: 03595380233 
+Telefono: 045/2373697 
+Indirizzo: VIA SPAGNOLE 2/B 
+Comune: 37015 SANT'AMBROGIO DI VALPOLICELLA - VR 
+Frazione: DOMEGLIARA 
+Indirizzo posta certificata: KIPCAST@PEC.KIPCAST.COM 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 31 
+Data inizio attività: 28/04/2006 
+Attività: REALIZZAZIONI DI SOFTWARE E CONSULENZA SOFTWARE (DAL 28/04/2006) C. Attività: 62.01 P 
+Capitale Sociale: deliberato 25.000,00 
+Valuta capitale sociale: EURO 
+42) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 23/07/2001 
+N.REA: 308885 F.G.: SR 
+Denominazione: NEOTECNICA S.R.L. 
+C.fiscale: 02025260049 Partita IVA: 03152480236 
+Indirizzo: VIA DIAZ, 4 
+Comune: 37015 SANT'AMBROGIO DI VALPOLICELLA - VR 
+Frazione: DOMEGLIARA 
+Indirizzo posta certificata: NEOTECNICA@PEC.NEOTECNICA.EU 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 11 
+Data inizio attività: 23/07/2001 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE (DAL 23/07/2001)
+ulisse.intra.infocamere.it/ulis/get-document-content.action 11/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+C. Attività: 62.01 P / 62.02 S / 63.11.2 S / 72.19.09 S / 74.10.3 S 
+Capitale Sociale: deliberato 20.000,00 
+Valuta capitale sociale: EURO 
+43) Prov: VR NRI: (VR-2000-29359) Sezioni RI: O - E 
+Data iscrizione RI: 27/04/2000 
+N.REA: 303511 F.G.: SR 
+Denominazione: FUTURA SISTEMI S.R.L. 
+C.fiscale: 03047300235 Partita IVA: 03047300235 
+Indirizzo: VIA SARAGAT, 21 
+Comune: 37066 SOMMACAMPAGNA - VR 
+Indirizzo posta certificata: FUTURASISTEMI@MAILGARANTITA.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 7 
+Data inizio attività: 01/07/2000 
+Attività: FORNITURA DI SOFTWARE E CONSULENZA IN MATERIA DI INFORMATICA C. Attività: 62.01 P 
+Capitale Sociale: deliberato 50.000,00 
+Valuta capitale sociale: EURO 
+44) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 24/10/2013 
+N.REA: 401771 F.G.: SR 
+Denominazione: INFOGESTWEB S.R.L. 
+C.fiscale: 04212510236 Partita IVA: 04212510236 
+Indirizzo: VIA BELVEDERE, 15 
+Comune: 37066 SOMMACAMPAGNA - VR 
+Frazione: CASELLE 
+Indirizzo posta certificata: INFOGESTWEB@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 22 
+Data inizio attività: 24/10/2013 
+Attività: PRODUZIONE E PROGETTAZIONE DI PROCEDURE SOFTWARE (DAL 24/10/2013). C. Attività: 62.01 I / 62.01 P / 46.46.3 S / 46.69.94 S / 85.59.2 S 
+Capitale Sociale: deliberato 100.000,00 
+Valuta capitale sociale: EURO 
+45) Prov: VR NRI: (VR091-40663) Sezioni RI: O - E 
+Data iscrizione RI: 19/02/1996 
+N.REA: 252567 Data iscrizione RD: 04/01/1996 F.G.: SR 
+Denominazione: S.I.A. S.R.L. 
+C.fiscale: 02651560233 Partita IVA: 02651560233 
+Indirizzo: VIA ANTONIO PACINOTTI, 1 
+Comune: 37066 SOMMACAMPAGNA - VR 
+Frazione: CASELLE 
+Indirizzo posta certificata: AMMINISTRAZIONE_SIAVR@CERT.NEISPA.COM 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 76 
+Data inizio attività: 15/01/1996 
+Attività: FORNITURA SOFTWARE E CONSULENZA INFORMATICA. LA COSTRUZIONE E L'INSTALLAZIONE DI MATERIALE ED IMPIANTI ELETTRICI, ELETTRONICI IN GENERE, DI APPARECCHIATURE E DISPOSITIVI ELETTROMECCANICI NEI PROCESSI PRODUTTIVI ED, IN PARTICOLARE, LA PROGRAMMAZIONE DI ELABORATORI ELETTRONICI, LA PROGETTAZIONE E/O LA COSTRUZIONE DI QUADRI ELETTRICI DI MEDIA E BASSA TENSIONE, NONCHE' DI QUADRI DI AZIONAMENTO ELETTRI 
+C. Attività: 62.01 P / 26.11.09 S / 27.33 S / 27.90.09 S / 43.21.01 S / 43.21.02 S / 85.59.2 S Capitale Sociale: deliberato 1.000.000,00 
+Valuta capitale sociale: EURO 
+46) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 17/06/2014 
+N.REA: 406179 F.G.: SR 
+Denominazione: ANITIA S.R.L. 
+C.fiscale: 04265340234 Partita IVA: 04265340234 
+Indirizzo: VIA FESTARA, 17 
+Comune: 37060 SONA - VR 
+Indirizzo posta certificata: ANITIA@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 7 
+Data inizio attività: 24/06/2014 
+Attività: LA RICERCA, LO SVILUPPO, LA REALIZZAZIONE DI PRODOTTI SOFTWARE, HARDWARE ED INFORMATICI IN GENERALE (DAL 24/06/2014) 
+C. Attività: 62.01 I / 62.01 P / 26.2 S / 47.91.1 S
+ulisse.intra.infocamere.it/ulis/get-document-content.action 12/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Capitale Sociale: deliberato 20.408,00 
+Valuta capitale sociale: EURO 
+47) Prov: VR NRI: (VR-2000-7269) Sezioni RI: O - E 
+Data iscrizione RI: 02/02/2000 
+N.REA: 301229 F.G.: SR 
+Denominazione: F.C.S. SOLUTIONS S.R.L. 
+C.fiscale: 02988760233 Partita IVA: 02988760233 
+Telefono: 045/6081543 
+Indirizzo: VIA VIVALDI, 8 
+Comune: 37060 SONA - VR 
+Indirizzo posta certificata: FCS@PEC.FCSSOLUTIONS.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 2 
+Data inizio attività: 01/02/2000 
+Attività: CONSULENZA IN MATERIA DI INFORMATICA E LO STUDIO, REALIZZAZIONE E FORNITURA DI SOFTWARE 
+C. Attività: 62.01 P 
+Capitale Sociale: deliberato 51.000,00 
+Valuta capitale sociale: EURO 
+48) Prov: VR NRI: (VR-2000-28720) Sezioni RI: O - E 
+Data iscrizione RI: 21/04/2000 
+N.REA: 303309 F.G.: SR 
+Denominazione: HS GROUP S.R.L. 
+C.fiscale: 03024810230 Partita IVA: 03024810230 
+Indirizzo: VIA SAN FRANCESCO, 23 
+Comune: 37060 SONA - VR 
+Frazione: LUGAGNANO 
+Indirizzo posta certificata: HSGROUP@PEC.ARUBA.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 2 dipendenti: 2 
+Data inizio attività: 20/04/2000 
+Attività: ASSISTENZA E VENDITA DI HARDWARE E SOFTWARE INFORMATICO 
+C. Attività: 62.09.09 I / 62.09.09 P 
+Capitale Sociale: deliberato 30.600,00 
+Valuta capitale sociale: EURO 
+49) Prov: VR Sezioni RI: O 
+Data iscrizione RI: 14/11/2006 
+N.REA: 352399 F.G.: SR 
+Denominazione: 24 CONSULTING S.R.L. 
+C.fiscale: 03635230232 Partita IVA: 03635230232 
+Indirizzo: VIA DEL PERLAR, 2 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: 24CONSULTING@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 35 
+Data inizio attività: 08/11/2006 
+Attività: LA PROGETTAZIONE E LO SVILUPPO DI PRODOTTI SOFTWARE, APPLICAZIONI INTERNET E MULTIMEDIALI, NONCHE' LA MANUTENZIONE DI SOLUZIONI SOFTWARE SVILUPPATE DA TERZE PARTI LA PROGETTAZIONE E LA GESTIONE DI SITI E PORTALI INTERNET DI PROPRIETA' E NON (DAL 08/11/2006). C. Attività: 62.01 P / 63.12 S 
+Capitale Sociale: deliberato 1.500.000,00 
+Valuta capitale sociale: EURO 
+50) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 20/09/2019 
+N.REA: 387191 F.G.: SR 
+Denominazione: 3DFLOW S.R.L. 
+C.fiscale: 04045030238 Partita IVA: 04045030238 
+Indirizzo: STRADA LE GRAZIE, 15 
+Comune: 37134 VERONA - VR 
+Indirizzo posta certificata: 3DFLOW@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 7 
+Data inizio attività: 12/03/2013 
+Attività: IDEAZIONE, SVILUPPO, PRODUZIONE DI SOFTWARE NELL'AMBITO DELLA GRAFICA, VISIONE COMPUTAZIONALE E MODELLAZIONE TRIDIMENSIONALE (DAL 12/03/2013). 
+C. Attività: 62.01 I / 62.01 P 
+Capitale Sociale: deliberato 13.500,00 
+Valuta capitale sociale: EURO
+ulisse.intra.infocamere.it/ulis/get-document-content.action 13/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+51) Prov: VR NRI: (VR-1998-22991) Sezioni RI: O - E 
+Data iscrizione RI: 16/04/1998 
+N.REA: 288031 F.G.: SR 
+Denominazione: ACTIVE S.R.L. 
+C.fiscale: 02827120235 Partita IVA: 02827120235 
+Indirizzo: VIA EVANGELISTA TORRICELLI 71/A 
+Comune: 37136 VERONA - VR 
+C. strad.: 30276 
+Indirizzo posta certificata: ACTIVE@PEC.ACTIVEVR.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 9 
+Data inizio attività: 05/08/1998 
+Attività: INSTALLAZIONE, ASSISTENZA, MANUTENZIONE SOFTWARE E HARDWARE. COMMERCIO INGROSSO DI HARDWARE E SOFTWARE 
+C. Attività: 62.01 P / 95.11 S / 46.51 S / 46.66 S 
+Capitale Sociale: deliberato 10.920,00 
+Valuta capitale sociale: EURO 
+52) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 10/12/2003 
+N.REA: 329851 F.G.: SR 
+Denominazione: ADAWEN S.R.L. 
+C.fiscale: 03357430234 Partita IVA: 03357430234 
+Indirizzo: VIA MEUCCI, 6 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: ADAWEN@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 39 Data inizio attività: 01/01/2004 
+Attività: ALTRE ATTIVITA' DEI SERVIZI CONNESSI ALLE TECNOLOGIE DELL'INFORMATICA. C. Attività: 62.09.09 I / 62.09.09 P 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+53) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 21/07/2022 
+N.REA: 455687 F.G.: SR 
+Denominazione: ADL SMS SOCIETA' A RESPONSABILITA' LIMITATA 
+C.fiscale: 12375340010 Partita IVA: 12375340010 
+Indirizzo: VIA DEI CASTAGNI, 9 
+Comune: 37141 VERONA - VR 
+Indirizzo posta certificata: adlsms@pec.it 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 1 
+Data inizio attività: 01/11/2020 
+Attività: SERVIZI DI MARKETING E PROMOZIONE PUBBLICITARIA SU INTERNET (DAL 07/07/2022) C. Attività: 61.90.99 I / 61.90.99 P / 62.09.09 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+54) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 15/01/2013 
+N.REA: 396521 F.G.: SR 
+Denominazione: AITEMA S.R.L. 
+C.fiscale: 04147170239 Partita IVA: 04147170239 
+Indirizzo: VIA DEL PERLAR, 70 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: AITEMA@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 1 dipendenti: 3 
+Data inizio attività: 05/03/2013 
+Attività: PROGETTAZIONE, COSTRUZIONE, INSTALLAZIONE DI QUALSIASI IMPIANTO ELETTRICO ED ELETTRONICO IN GENERE, IMPIANTI DI PROTEZIONE ANTINCENDIO, IVI COMPRESA LA PROGETTAZIONE DI SOFTWARE (DAL 05/03/2013) 
+C. Attività: 62.09.09 I / 62.09.09 P 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+55) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 12/02/2008 
+N.REA: 312093 F.G.: SR 
+Denominazione: ALL SERVICES SOCIETA' A RESPONSABILITA' LIMITATA 
+C.fiscale: 02338950237 Partita IVA: 03384660100
+ulisse.intra.infocamere.it/ulis/get-document-content.action 14/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Indirizzo: VIA FLAVIO GIOIA 21/A 21/A 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: POSTA@PEC.ALL-SERVICES.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 2 
+Data inizio attività: 12/02/2008 
+Attività: CONSULENZA E COMMERCIO ALL'INGROSSO DI SOFTWARE (DAL 12/02/2008) ORGANIZZAZIONE CORSI PER APPLICATIVI SOFTWARE (DAL 12/02/2008) CREAZIONE SITI WEB (DAL 12/02/2008) COMMERCIO ALL'INGROSSO DI HARDWARE (DAL 12/02/2008) 
+C. Attività: 62.01 P / 46.51 S / 74.10.21 S / 85.59.2 S 
+Capitale Sociale: deliberato 10.400,00 
+Valuta capitale sociale: EURO 
+56) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 25/01/2023 
+N.REA: 455593 F.G.: SR 
+Denominazione: ARCAS SRL 
+C.fiscale: 04709930285 Partita IVA: 04709930285 
+Indirizzo: VICOLO PIETRONE 1/B 
+Comune: 37123 VERONA - VR 
+Indirizzo posta certificata: ARCAS@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 3 
+Data inizio attività: 01/03/2013 
+Attività: SERVIZI DI CONSULENZA NEL SETTORE DELLE TECNOLOGIE DELL'INFORMATICA C. Attività: 62.02 I / 62.02 P 
+Capitale Sociale: deliberato 48.000,00 
+Valuta capitale sociale: EURO 
+57) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 07/02/2006 
+N.REA: 346814 F.G.: SR 
+Denominazione: ARITHMOS S.R.L. 
+C.fiscale: 03568990232 Partita IVA: 03568990232 
+Indirizzo: VIA GERMANIA, 2 
+Comune: 37136 VERONA - VR 
+Indirizzo posta certificata: ARITHMOS@PEC.ARITHMOS.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 54 
+Data inizio attività: 02/02/2006 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE (DAL 31/12/2009). C. Attività: 62.01 P 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+58) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 04/07/2012 
+N.REA: 393649 F.G.: SR 
+Denominazione: ATLANTIS S.R.L. 
+C.fiscale: 04118740234 Partita IVA: 04118740234 
+Indirizzo: VIA EVANGELISTA TORRICELLI, 37 
+Comune: 37136 VERONA - VR 
+Indirizzo posta certificata: ATLANTISSRL4@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 14 
+Data inizio attività: 12/09/2012 
+Attività: PROGETTAZIONE ED IMPLEMENTAZIONE/MANUTENZIONE DEI SERVIZI DI COMUNICAZIONE CORRELATI ALLA VITA DIGITALE AZIENDALE QUALI, AD ESEMPIO, INTEGRAZIONE SERVIZI FONIA, REALIZZAZIONE RETI PRIVATE VIRTUALI, GESTIONE COMPLETA DELLA SICUREZZA INFORMATICA AZIENDALE, ACCESSI INTERNET, SERVIZI DI CONNESSIONE DATI (DAL 12/09/2012). C. Attività: 61.90.99 I / 61.90.99 P / 62.09.09 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+59) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 10/03/2023 
+N.REA: 459481 F.G.: SR 
+Denominazione: BANTOA S.R.L. 
+C.fiscale: 02395260223 Partita IVA: 02395260223 
+Indirizzo: VIA BELLUNO 22/A 
+Comune: 37133 VERONA - VR 
+Indirizzo posta certificata: BANTOA@PEC.EPOSTA.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 6
+ulisse.intra.infocamere.it/ulis/get-document-content.action 15/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Data inizio attività: 15/10/2015 
+Attività: STUDIO E PROGETTAZIONE DI ALGORITMI STATISTICI E PATTERN MATCHING PER LA RICERCA DI SCHEMI O MODELLI DI GUSTO E ABBINAMENTO PER IL MONDO DEL FASHION. IMPLEMENTAZIONE IN PIATTAFORME WEB E MOBILE DI TALI ALGORITMI SVILUPPO, BREVETTAZIONE E GESTIONE DI PIATTAFORME TECNOLOGICHE INNOVATIVE, SOFTWARE, WEB E MOBILE LEGATI ALL'E-COMMERCE E ALLA VENDITA DI BENI E SERVIZI PER CORRISPONDENZA IN TUTTE LE SUE 
+C. Attività: 62.01 I / 62.01 P 
+Capitale Sociale: deliberato 12.185,17 
+Valuta capitale sociale: EURO 
+60) Prov: VR Sezioni RI: O 
+Data iscrizione RI: 01/08/2001 
+N.REA: 312885 F.G.: SR 
+Denominazione: BEDIGITAL SRL 
+C.fiscale: 03150270233 Partita IVA: 03150270233 
+Telefono: 045/8352440 
+Indirizzo: VIA GINO BELTRAMINI 15/A 
+Comune: 37124 VERONA - VR 
+Frazione: PARONA 
+Indirizzo posta certificata: AMMINISTRAZIONE@PEC.BEDIGITAL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 10 
+Data inizio attività: 01/08/2001 
+Attività: CONSULENZA INFORMATICA IN GENERE STUDIO, PROGETTAZIONE, REALIZZAZIONE DI SOFTWARE E SERVIZI INFORMATICI. 
+C. Attività: 62.02 P / 46.51 S / 62.01 S / 62.09.09 S 
+Capitale Sociale: deliberato 15.000,00 
+Valuta capitale sociale: EURO 
+61) Prov: VR NRI: (VR-1997-167414) Sezioni RI: O - E 
+Data iscrizione RI: 15/01/1997 
+N.REA: 277752 F.G.: SR 
+Denominazione: BENTOBOX S.R.L. 
+C.fiscale: 02729390233 Partita IVA: 02729390233 
+Indirizzo: CORSO MILANO, 127 
+Comune: 37138 VERONA - VR 
+Indirizzo posta certificata: BENTOBOXSRL@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 14 
+Data inizio attività: 20/10/1997 
+Attività: CONSULENZA NEL SETTORE DELLE TECNOLOGIE DELL'INFORMATICA E DELL'INFORMAZIONE, COMPRESE LE TECNOLOGIE DIGITALI E DELLA COMUNICAZIONE, CON ANALISI DEI BISOGNI DEGLI UTENTI E RELATIVE SOLUZIONI (DAL 01/10/2019). 
+C. Attività: 62.02 I / 62.02 P / 59.11 S / 73.11.01 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+62) Prov: VR NRI: (VR091-10287) Sezioni RI: O - E 
+Data iscrizione RI: 19/02/1996 
+N.REA: 153955 Data iscrizione RD: 30/12/1977 F.G.: SP 
+Denominazione: CAD IT S.P.A. 
+C.fiscale: 00724020235 Partita IVA: 00724020235 
+Telefono: 045/9211111 
+Indirizzo: VIA EVANGELISTA TORRICELLI 44/A 
+Comune: 37136 VERONA - VR 
+Indirizzo posta certificata: CADIT@PEC.GRUPPOCADIT.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 408 
+Attività: OPIFICIO DESTINATO ALLA PRODUZIONE DI PROGRAMMI INFORMATICI PER ELABORATORI, CENTRO DI SERVIZIO ELETTRONICO, DIREZIONE GENERALE ED ANNESSI UFFICI TECNICI, COMMERCIALI E AMMINISTRATIVI E DEPOSITO MATERIALI PER ELABORATORI ELETTRONICI. C. Attività: 62.01 P 
+Capitale Sociale: deliberato 4.669.600,00 
+Valuta capitale sociale: EURO 
+63) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 14/11/2019 
+N.REA: 440016 F.G.: SR 
+Denominazione: CONNECTLIFE S.R.L. 
+C.fiscale: 04676780234 Partita IVA: 04676780234 
+Indirizzo: VIA ADRIANO GARBINI 2/B 
+Comune: 37135 VERONA - VR
+ulisse.intra.infocamere.it/ulis/get-document-content.action 16/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Indirizzo posta certificata: connectlife@legalmail.it 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 4 
+Data inizio attività: 16/11/2019 
+Attività: EROGAZIONE DI SERVIZI DI ACCESSO AD INTERNET (ISP) - EROGAZIONE DI SERVIZI DI ACCESSO AD INTERNET AGLI UTENTI FINALI DA PARTE DI OPERATORI DIVERSI DA QUELLI CHE GESTISCONO LE INFRASTRUTTURE. (DAL 16/11/2019) 
+C. Attività: 61.90.1 I / 61.90.1 P / 62.02 S / 62.09.01 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+64) Prov: VR NRI: (VR-2004-72147) Sezioni RI: O - M - E 
+Data iscrizione RI: 29/12/2004 
+N.REA: 305956 F.G.: SP 
+Denominazione: CREACTIVES S.P.A 
+C.fiscale: 02589280128 Partita IVA: 03245350966 
+Telefono: 045/6261357 
+Indirizzo: VIA E. FERMI, 4 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: POSTACERTIFICATA@PEC.CREACTIVES.COM 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 58 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE (DAL 01/12/2011). C. Attività: 62.01 P / 63.11.1 S / 70.22.09 S 
+Capitale Sociale: deliberato 2.000.000,00 
+Valuta capitale sociale: EURO 
+65) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 02/04/2001 
+N.REA: 308207 F.G.: SR 
+Denominazione: CSB - SYSTEM S.R.L. 
+C.fiscale: 02175940366 Partita IVA: 03117850234 
+Indirizzo: VIA ALBERE, 88 
+Comune: 37138 VERONA - VR 
+Indirizzo posta certificata: CSB-SYSTEM@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 23 
+C. Attività: 62.02 I 
+Capitale Sociale: deliberato 10.200,00 
+Valuta capitale sociale: EURO 
+66) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 08/03/2018 
+N.REA: 429265 F.G.: SR 
+Denominazione: CT INNOVATION S.R.L. 
+C.fiscale: 09850010969 Partita IVA: 09850010969 
+Indirizzo: VIA DEL PERLAR, 24 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: AMMINISTRAZIONE@PEC.CTINNOVATION.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 12 
+Data inizio attività: 05/04/2017 
+Attività: PROGETTAZIONE E SVILUPPO DI SOFTWARE A FORTE COMPONENTE INNOVATIVA CON L'UTILIZZO DI TECNICHE DI INTELLIGENZA ARTIFICIALE, SEMATICA E MACHINE LEARNING. C. Attività: 62.01 I / 62.01 P / 62.02 S 
+Capitale Sociale: deliberato 826.407,00 
+Valuta capitale sociale: EURO 
+67) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 28/09/2017 
+N.REA: 426660 F.G.: SR 
+Denominazione: DANCELLI TECNOLOGIE S.R.L. 
+C.fiscale: 02407260989 Partita IVA: 02407260989 
+Indirizzo: VIA ENRICO FERMI 13/C 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: DANCELLITECNOLOGIE@PEC-LEGAL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 6 
+Data inizio attività: 28/09/2012 
+Attività: SERVIZI DI CONSULENZA SVOLTI NEL SETTORE DELLE TECNOLOGIE DELL'INFORMATICA (DAL 02/10/2017). 
+C. Attività: 62.02 I / 62.02 P / 46.51 S / 46.69.94 S 
+Capitale Sociale: deliberato 2.000.000,00 
+Valuta capitale sociale: EURO
+ulisse.intra.infocamere.it/ulis/get-document-content.action 17/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+68) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 27/02/2009 
+N.REA: 370042 F.G.: SR 
+Denominazione: DATAFOX S.R.L. 
+C.fiscale: 02260330481 Partita IVA: 02260330481 
+Indirizzo: VIA TORRICELLI 44/A 
+Comune: 37136 VERONA - VR 
+Indirizzo posta certificata: DATAFOX@PEC.GRUPPOCADIT.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 3 
+Data inizio attività: 22/01/1999 
+Attività: REALIZZAZIONE DI SOFTWARE PERSONALIZZATO E CONSULENZA SOFTWARE (DAL 22/01/1999) C. Attività: 62.01 P / 62.02 S / 62.09.09 S / 85.59.2 S / 95.11 S 
+Capitale Sociale: deliberato 99.999,00 
+Valuta capitale sociale: EURO 
+69) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 15/03/2016 
+N.REA: 417376 F.G.: SR 
+Denominazione: DATASYS NETWORK S.R.L. 
+C.fiscale: 04404070239 Partita IVA: 04404070239 
+Indirizzo: VIA ADRIANO GARBINI, 15 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: DNETWORK@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 32 
+Data inizio attività: 31/03/2016 
+Attività: CONSULENZA NEL SETTORE DELLE TECNOLOGIE DELL'INFORMATICA (DAL 31/03/2016) C. Attività: 62.02 I / 62.02 P / 62.01 S 
+Capitale Sociale: deliberato 700.000,00 
+Valuta capitale sociale: EURO 
+70) Prov: VR Sezioni RI: O - M - E 
+Data iscrizione RI: 04/11/2004 
+N.REA: 336984 F.G.: SP 
+Denominazione: DIGITRONICA.IT S.P.A. 
+C.fiscale: 03444940237 Partita IVA: 03444940237 
+Telefono: 045/501901
+Indirizzo: VIALE DEL LAVORO, 52 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: DIGITRONICA.IT@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 31 
+Data inizio attività: 02/11/2004 
+Attività: STUDIO, IDEAZIONE, PROGETTAZIONE E SCRITTURA DI PROGRAMMI INFORMATICI. PROMOZIONE, COMMERCIALIZZAZIONE (INGROSSO) E MANUTENZIONE DELLA STRUTTURA E DELLE RETI SOFTWARE FORNITE ALLA CLIENTELA (DAL 02/11/2004) PRODUZIONE, COMMERCIALIZZAZIONE, (INGROSSO), IMPORTAZIONE, ESPORTAZIONE, MANUTENZIONE DI ELABORATORI O DI PARTE DI ESSI, APPARECCHIATURE ELETTRONICHE E DI MATERIALE ELETTRONICO IN GENERE, DEI R C. Attività: 62.01 P / 26.2 S / 46.43.2 S / 46.51 S / 85.59.2 S / 95.11 S 
+Capitale Sociale: deliberato 300.000,00 
+Valuta capitale sociale: EURO 
+71) Prov: VR Sezioni RI: O 
+Data iscrizione RI: 21/09/2021 
+N.REA: 450522 F.G.: SR 
+Denominazione: DOMOTIC WEB SRL 
+C.fiscale: 04844510232 Partita IVA: 04844510232 
+Indirizzo: VIA FRANCIA 21/C 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: domoticwebsrl@lamiapec.it 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 1 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE 
+C. Attività: 62.01 I / 62.01 P / 63.11.1 S / 73.11 S / 73.2 S 
+Capitale Sociale: deliberato 430.000,00 
+Valuta capitale sociale: EURO 
+72) Prov: VR NRI: (VR-1997-246030) Sezioni RI: O - E 
+Data iscrizione RI: 30/10/1997 
+N.REA: 284894 F.G.: SR 
+Denominazione: DW INFORMATICA S.R.L. 
+C.fiscale: 02796820237 Partita IVA: 02796820237
+ulisse.intra.infocamere.it/ulis/get-document-content.action 18/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Telefono: 045/8200760 
+Indirizzo: VIA COPERNICO, 14 
+Comune: 37135 VERONA - VR 
+C. strad.: 28156 
+Indirizzo posta certificata: DWINFORMATICA@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 6 
+Data inizio attività: 09/03/1998 
+Attività: PRODUZIONE DI SOFTWARE PER CONTO TERZI (DAL 27/10/2014) 
+C. Attività: 62.01 I / 62.01 P 
+Capitale Sociale: deliberato 500.000,00 
+Valuta capitale sociale: EURO 
+73) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 03/08/2007 
+N.REA: 358813 F.G.: SR 
+Denominazione: EDALAB SRL 
+C.fiscale: 03706250234 Partita IVA: 03706250234 
+Indirizzo: STRADA LE GRAZIE, 15 
+Comune: 37134 VERONA - VR 
+Alt. ind.: DIP INFORMATICA UNIVERSITA' VR 
+Indirizzo posta certificata: AMMINISTRAZIONE@PEC.EDALAB.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 15 Data inizio attività: 19/07/2007 
+Attività: CONSULENZA NEL SETTORE DELLE TECNOLOGIE DELL'INFORMATICA (DAL 01/10/2012) C. Attività: 62.01 I / 62.02 P / 58.29 S / 62.01 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+74) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 17/05/2011 
+N.REA: 311723 F.G.: SP 
+Denominazione: EDULIFE S.P.A. SOCIETA' BENEFIT 
+C.fiscale: 03137420232 Partita IVA: 03331230270 
+Indirizzo: LUNGADIGE GALTAROSSA, 21 
+Comune: 37133 VERONA - VR 
+Indirizzo posta certificata: AMMINISTRAZIONE@PEC.EDULIFE.EU 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 16 Data inizio attività: 25/09/2001 
+Attività: IDEAZIONE, PROGETTAZIONE E GESTIONE DI SERVIZI A SUPPORTO DELLA FORMAZIONE A DISTANZA, SU RETE INTERNET E/O ALTRE RETI TELEMATICHE, ALTRI SERVIZI CONNESSI ALL'INFORMATICA (DAL 25/09/2001) 
+C. Attività: 62.01 I / 62.01 P / 46.51 S 
+Capitale Sociale: deliberato 500.000,00 
+Valuta capitale sociale: EURO 
+75) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 12/12/2013 
+N.REA: 402471 F.G.: SR 
+Denominazione: EIS S.R.L. 
+C.fiscale: 04219470236 Partita IVA: 04219470236 
+Indirizzo: LARGO PERLAR, 12 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: EISPEC@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 11 Data inizio attività: 02/01/2014 
+Attività: TELECOMUNICAZIONI FISSE (DAL 01/02/2024) 
+C. Attività: 61.1 I / 61.1 P / 61.90.1 S / 61.90.91 S / 62.01 S / 77.33 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+76) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 20/06/2019 
+N.REA: 437925 F.G.: SR 
+Denominazione: elettrone s.r.l. 
+C.fiscale: 04650610233 Partita IVA: 04650610233 
+Indirizzo: VIA CA' DI COZZI, 10 
+Comune: 37124 VERONA - VR 
+Indirizzo posta certificata: info@pec.elettrone.it 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 9
+ulisse.intra.infocamere.it/ulis/get-document-content.action 19/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Data inizio attività: 20/11/2019 
+Attività: PRODUZIONE DI SOFTWARE PER DISPOSITIVI PER L'EFFICIENZA ENERGETICA (DAL 20/11/2019) C. Attività: 62.01 I / 62.01 P / 62.02 S 
+Capitale Sociale: deliberato 100.000,00 
+Valuta capitale sociale: EURO 
+77) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 20/06/2005 
+N.REA: 342293 F.G.: SR 
+Denominazione: EVS EMBEDDED VISION SYSTEMS S.R.L. 
+C.fiscale: 03512510235 Partita IVA: 03512510235 
+Telefono: 045/8027027 
+Indirizzo: STRADA LE GRAZIE, 15 
+Comune: 37134 VERONA - VR 
+Indirizzo posta certificata: EVS@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 9 
+Data inizio attività: 13/06/2005 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE (DAL 01/01/2011) C. Attività: 62.01 I / 62.01 P / 33.20.03 S / 62.02 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+78) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 11/03/2010 
+N.REA: 377277 F.G.: SR 
+Denominazione: EWAKE S.R.L. 
+C.fiscale: 03932720232 Partita IVA: 03932720232 
+Indirizzo: VIA COL. GIOVANNI FINCATO, 214 
+Comune: 37131 VERONA - VR 
+Indirizzo posta certificata: EWAKE@BPEC.IT 
+N.AA: VR-138006 Data dom./accert.: 19/03/2010 Data delibera: 22/04/2010 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 8 
+Data inizio attività: 05/03/2010 
+Attività: REALIZZAZIONE DI PORTALI WEB (DAL 05/03/2010) 
+C. Attività: 62.01 I / 62.01 P / 62.02 S / 62.09 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+79) Prov: VR Sezioni RI: O - L - E 
+Data iscrizione RI: 21/11/2016 
+N.REA: 421197 F.G.: SR 
+Denominazione: EXFIDANT S.R.L. 
+C.fiscale: 04447950231 Partita IVA: 04447950231 
+Indirizzo: VIA ISONZO, 11 
+Comune: 37126 VERONA - VR 
+Indirizzo posta certificata: EXFIDANT@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 5 
+Data inizio attività: 15/11/2016 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE (DAL 15/11/2016). C. Attività: 62.01 I 
+Capitale Sociale: deliberato 25.000,00 
+Valuta capitale sociale: EURO 
+80) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 04/03/2008 
+N.REA: 362792 F.G.: SR 
+Denominazione: FAIRMAT S.R.L. 
+C.fiscale: 03754840233 Partita IVA: 03754840233 
+Indirizzo: PIAZZA BRA', 28 
+Comune: 37121 VERONA - VR 
+Indirizzo posta certificata: FAIRMAT@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 55 
+Data inizio attività: 13/02/2008 
+Attività: SVILUPPO DI PROGRAMMI, SOFTWARE E ALTRI PRODOTTI E SERVIZI INNOVATIVI AD ALTO VALORE TECNOLOGICO (DAL 27/11/2019) 
+C. Attività: 62.01 P 
+Capitale Sociale: deliberato 50.000,00 
+Valuta capitale sociale: EURO
+ulisse.intra.infocamere.it/ulis/get-document-content.action 20/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+81) Prov: VR NRI: (VR091-35060) Sezioni RI: O - E 
+Data iscrizione RI: 19/02/1996 
+N.REA: 236511 Data iscrizione RD: 23/10/1992 F.G.: SR 
+Denominazione: GENERAL SOFTWARE TECHNOLOGIES S.R.L. ABBREVIATO G.S.T. SRL C.fiscale: 02397410230 Partita IVA: 02397410230 
+Telefono: 045/8250077 
+Indirizzo: VIA MORGAGNI 4/A 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: INFO@PEC.GST-SRL.COM 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 10 
+Data inizio attività: 01/06/1994 
+Attività: PREDISPOSIZIONE ELABORAZIONE E COMMERCIO DI PROGRAMMI INFORMATICI - SVOLGIMENTO DI SERVIZI INFORMATICI 
+C. Attività: 62.01 P / 63.11.1 S 
+Capitale Sociale: deliberato 60.000,00 
+Valuta capitale sociale: EURO 
+82) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 18/04/2002 
+N.REA: 318262 F.G.: SR 
+Denominazione: H & F S.R.L. 
+C.fiscale: 03212400232 Partita IVA: 03212400232 
+Indirizzo: VIA PRIMA TRAVERSA SPIANA', 3 
+Comune: 37138 VERONA - VR 
+Indirizzo posta certificata: HFLEGAL@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 23 
+Data inizio attività: 28/03/2002 
+Attività: ANALISI, PROGETTAZIONE, REALIZZAZIONE SISTEMI INFORMATICI, REALIZZAZIONE DI SERVIZI BASATI SU SISTEMI INFORMATICI, LO SVILUPPO DI SOFTWARE 
+C. Attività: 62.01 P / 62.09 S 
+Capitale Sociale: deliberato 10.500,00 
+Valuta capitale sociale: EURO 
+83) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 05/01/2022 
+N.REA: 452032 F.G.: SR 
+Denominazione: HONU S.R.L. 
+C.fiscale: 04195490240 Partita IVA: 04195490240 
+Indirizzo: VIA DELLA MECCANICA, 20 
+Comune: 37139 VERONA - VR 
+Indirizzo posta certificata: HONU@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 19 
+Data inizio attività: 30/01/2019 
+Attività: PROGETTAZIONE E SVILUPPO DI SOFTWARE, CONSULENZA SETTORE INFORMATICO. C. Attività: 62.01 I / 62.01 P / 62.02 S 
+Capitale Sociale: deliberato 100.000,00 
+Valuta capitale sociale: EURO 
+84) Prov: VR NRI: (VR091-40698) Sezioni RI: O - E 
+Data iscrizione RI: 27/02/1996 
+N.REA: 252690 Data iscrizione RD: 11/01/1996 F.G.: SR 
+Denominazione: ICA SYSTEMS SRL 
+C.fiscale: 02441700289 Partita IVA: 02655940233 
+Telefono: 045/8103626 
+Indirizzo: VIA ALBERE, 19 
+Comune: 37138 VERONA - VR 
+Indirizzo posta certificata: ICASYSTEMS.VENETO@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 11 
+Data inizio attività: 01/03/2012 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE (DAL 01/03/2012) C. Attività: 62.01 P / 62.02 S 
+Capitale Sociale: deliberato 100.000,00 
+Valuta capitale sociale: EURO 
+85) Prov: VR NRI: (VR091-40934) Sezioni RI: O - E 
+Data iscrizione RI: 12/02/1996 
+N.REA: 230174 Data iscrizione RD: 29/07/1991 F.G.: SR 
+Denominazione: ICON - INGEGNERIA DELLA CONOSCENZA S.R.L. IN SIGLA *ICON S.R.L.* C.fiscale: 02183180286 Partita IVA: 02625760232
+ulisse.intra.infocamere.it/ulis/get-document-content.action 21/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Telefono: 045/8286311 
+Indirizzo: VIALE DELL'INDUSTRIA, 21 
+Comune: 37135 VERONA - VR 
+C. strad.: 28288 
+Indirizzo posta certificata: ICON-IT@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 8 
+Data inizio attività: 09/06/1988 
+Attività: SVILUPPO DI SISTEMI SOFTWARE E HARDWARE IN NOME PROPRIO O DI TERZI, SERVIZI DI CONSULENZA E PROMOZIONE 
+C. Attività: 62.01 P / 62.02 S 
+Capitale Sociale: deliberato 26.000,00 
+Valuta capitale sociale: EURO 
+86) Prov: VR Sezioni RI: O 
+Data iscrizione RI: 27/04/2001 
+N.REA: 311104 F.G.: SR 
+Denominazione: INFORMACOM SOCIETA' A RESPONSABILITA' LIMITATA (SIGLA INFORMACOM S.R.L.) C.fiscale: 03130060233 Partita IVA: 03130060233 
+Indirizzo: VIA GALVANI 63/A 
+Comune: 37138 VERONA - VR 
+Indirizzo posta certificata: INFORMACOMSRL@PEC.IT 
+Data inizio attività: 24/04/2001 
+Attività: GESTIONE DI SITI WEB E SERVIZI INFORMATICI PER CONTO TERZI ED IN PARTICOLARE MODO PER AGENZIE DI INFORMAZIONI COMMERCIALI, SVILUPPO SOFTWARE 
+C. Attività: 62.09.09 I / 62.09.09 P / 43.21.01 S 
+Capitale Sociale: deliberato 90.000,00 
+Valuta capitale sociale: EURO 
+87) Prov: VR NRI: (VR-1999-58156) Sezioni RI: O - E 
+Data iscrizione RI: 27/10/1999 
+N.REA: 299262 F.G.: SR 
+Denominazione: INTESYS NETWORKING S.R.L. 
+C.fiscale: 02974020238 Partita IVA: 02974020238 
+Indirizzo: VIA ROVEGGIA 122/A 
+Comune: 37136 VERONA - VR 
+Indirizzo posta certificata: PEC.INETWORKING@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 9 
+Data inizio attività: 01/01/2000 
+Attività: FORNITURA DI SOFTWARE E CONSULENZA IN MATERIA DI INFORMATICA. FORNITURA DI SERVIZI DI RETE E CONNETTIVITA' INTERNET, CONSULENZA INFORMATICA, COMMERCIO ALL'INGROSSO DI APPARECCHIATURE DI NETWORKING, HARDWARE E SOFTWARE IN GENERE. C. Attività: 62.01 P / 46.51 S / 46.52.09 S / 61.90.1 S 
+Capitale Sociale: deliberato 23.920,00 
+Valuta capitale sociale: EURO 
+88) Prov: VR NRI: (VR091-39406) Sezioni RI: O - E 
+Data iscrizione RI: 19/02/1996 
+N.REA: 249004 Data iscrizione RD: 31/03/1995 F.G.: SR 
+Denominazione: INTESYS S.R.L. 
+C.fiscale: 02601270230 Partita IVA: 02601270230 
+Telefono: 045/503663 
+Indirizzo: VIA ROVEGGIA 122/A 
+Comune: 37136 VERONA - VR 
+Indirizzo posta certificata: INTESYS.PEC@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 78 
+Data inizio attività: 22/05/1995 
+Attività: FORNITURA, SVILUPPO E CREAZIONE DI SERVIZI INFORMATICI E TELEMATICI COMMERCIO INGROSSO SOFTWARE, HARDWARE ED APPARECCHIATURE DI OGNI TIPO CON ESSI UTILIZZABILI C. Attività: 62.09 P / 46.51 S / 61 S 
+Capitale Sociale: deliberato 52.000,00 
+Valuta capitale sociale: EURO 
+89) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 31/01/2008 
+N.REA: 361955 F.G.: SR 
+Denominazione: JDSYSTEM S.R.L. 
+C.fiscale: 03745720239 Partita IVA: 03745720239 
+Indirizzo: VIA COL GIOVANNI FINCATO, 214 
+Comune: 37131 VERONA - VR
+ulisse.intra.infocamere.it/ulis/get-document-content.action 22/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Indirizzo posta certificata: AMMINISTRAZIONE.JDSYSTEM@BPEC.IT 
+N.AA: VR-134556 Data dom./accert.: 22/07/2008 Data delibera: 25/09/2008 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 5 
+Data inizio attività: 31/01/2008 
+Attività: SERVIZI DI ASSISTENZA SISTEMISTICA NETWORK E SERVIZI DI CONSULENZA INFORMATICA (DAL 01/04/2010). 
+C. Attività: 62.02 I / 62.02 P / 62.01 S / 62.09 S / 95.11 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+90) Prov: VR Sezioni RI: O 
+Data iscrizione RI: 28/02/2013 
+N.REA: 397699 F.G.: SR 
+Denominazione: KAL ITALY S.R.L. 
+C.fiscale: 04167060237 Partita IVA: 04167060237 
+Indirizzo: VIA ENRICO FERMI, 4 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: KALITALY@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 9 
+Data inizio attività: 07/02/2013 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE 
+C. Attività: 62.01 I 
+Capitale Sociale: deliberato 20.000,00 
+Valuta capitale sociale: EURO 
+91) Prov: VR NRI: (VR091-27570) Sezioni RI: O - E 
+Data iscrizione RI: 19/02/1996 
+N.REA: 215439 Data iscrizione RD: 24/11/1988 F.G.: SR 
+Denominazione: LEOTRON SOCIETA' BENEFIT A RESPONSABILITA' LIMITATA 
+C.fiscale: 02079170235 Partita IVA: 02079170235 
+Telefono: 045/831777 
+Indirizzo: CORSO MILANO 122/A 
+Comune: 37128 VERONA - VR 
+Indirizzo posta certificata: LEOTRON@LEOPEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 17 
+Data inizio attività: 13/04/1989 
+Attività: PRODUZIONE COMMERCIO INGROSSO ED ASSISTENZA DI PROGRAMMI SOFTWARE PROPRI E DI TERZI PER ELABORATORI ELETTRONICI, REGISTRATORI D ICASSA E MACCHINE PER UFFICIO IN GENERE 
+C. Attività: 62.01 I / 62.01 P / 46.51 S / 62.02 S / 70.22.09 S / 73.11.01 S / 74.90.99 S / 77.4 S / 95.11 S 
+Capitale Sociale: deliberato 10.400,00 
+Valuta capitale sociale: EURO 
+92) Prov: VR NRI: (VR091-21514) Sezioni RI: O - E 
+Data iscrizione RI: 19/02/1996 
+N.REA: 197492 Data iscrizione RD: 03/10/1985 F.G.: SR 
+Denominazione: MAC SERVICE S.R.L. 
+C.fiscale: 01796670238 Partita IVA: 01796670238 
+Indirizzo: VIA MANTOVANA 125/C 
+Comune: 37137 VERONA - VR 
+Indirizzo posta certificata: MAC-SERVICE@MAILCERTIFICATA.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 6 
+Data inizio attività: 25/09/1985 
+Attività: L'ASSISTENZA TECNICA SU COMPUTERS ED APPARECCHIATURE ELETTRONICHE DI OGNI TIPO E GENERE 
+C. Attività: 62.02 P / 33.20.02 S / 46.51 S 
+Capitale Sociale: deliberato 10.400,00 
+Valuta capitale sociale: EURO 
+93) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 06/10/2009 
+N.REA: 373747 F.G.: SR 
+Denominazione: MEDIATEL ITALIA S.R.L. 
+C.fiscale: 03887930232 Partita IVA: 03887930232 
+Indirizzo: VIA SETTEMBRINI, 5 
+Comune: 37123 VERONA - VR 
+Indirizzo posta certificata: MEDIATELITALIA@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 4
+ulisse.intra.infocamere.it/ulis/get-document-content.action 23/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Data inizio attività: 25/11/2010 
+Attività: AGENTE DI COMMERCIO NEL SETTORE DELLA TELEFONIA (DAL 25/11/2010) C. Attività: 61.90.91 I / 61.90.91 P 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+94) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 30/10/2007 
+N.REA: 360114 F.G.: SR 
+Denominazione: MWD S.R.L. 
+C.fiscale: 03722060237 Partita IVA: 03722060237 
+Indirizzo: VIA E. FERMI 11/A 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: MWD@MAIL-CERT.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 16 
+Data inizio attività: 17/10/2007 
+Attività: REALIZZAZIONE E FORNITURA DI SOFTWARE E CONSULENZA IN MATERIA DI INFORMATICA (DAL 17/10/2007) COMMERCIO ALL'INGROSSO DI COMPUTER E SOFTWARE (DAL 17/12/2007) C. Attività: 62.01 P / 46.51 S 
+Capitale Sociale: deliberato 20.000,00 
+Valuta capitale sociale: EURO 
+95) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 20/04/2022 
+N.REA: 437243 F.G.: SR 
+Denominazione: NBS S.R.L. 
+C.fiscale: 01563280294 Partita IVA: 01563280294 
+Indirizzo: VIA FRANCIA 5/D 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: NBS-SRL@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 3 
+Attività: CONSULENZA IN MATERIA DI GESTIONE DEL MARKETING STUDIO, PROGETTAZIONE E REALIZZAZIONE DI PORTALI LANDING PAGES E WEB SITES A SOSTEGNO DELLE INIZIATIVE PROMOZIONALI ATTIVITA' DI STUDIO, RICERCA, ANALISI E MONITORAGGIO DEL FENOMENO DELL'INFLUENCER MARKETING E VALUTAZIONE DELLA SUA EFFICACIA L'ATTIVITA' EDITORIALE, PUBBLICAZIONE E DISTRIBUZIONE DI TESTI, NOTIZIE, NEWSLETTER RELATIVE ALL'INFLUENCER MA C. Attività: 62.02 I / 70.22.09 P / 58.11 S / 62.01 S / 63.11.2 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+96) Prov: VR Sezioni RI: O - U - E 
+Data iscrizione RI: 16/03/2018 
+N.REA: 430003 F.G.: SR 
+Denominazione: ORAPESCE S.R.L. 
+C.fiscale: 04553320237 Partita IVA: 04553320237 
+Indirizzo: VIA SAN GIOVANNI LUPATOTO, 25 
+Comune: 37134 VERONA - VR 
+Indirizzo posta certificata: infooggipesce@legalmail.it 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 13 
+Data inizio attività: 16/03/2018 
+Attività: REALIZZAZIONE DI UNA PIATTAFORMA ON LINE PER LA GESTIONE DI UN ORDINE D'ACQUISTO NELL'AMBITO DEL SETTORE ITTICO FRESCO ITALIANO (DAL 16/03/2018) 
+C. Attività: 62.01 I / 62.01 P / 47.91.1 S / 82.3 S / 96.09.09 S 
+Capitale Sociale: deliberato 48.788,63 
+Valuta capitale sociale: EURO 
+97) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 07/03/2001 
+N.REA: 309865 F.G.: SR 
+Denominazione: P-LAB S.R.L. 
+C.fiscale: 03111620237 Partita IVA: 03111620237 
+Indirizzo: VIALE DEL LAVORO, 33 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: P-LAB@REGISTERPEC.IT 
+N.AA: VR-98199 Data dom./accert.: 04/10/2001 Data delibera: 12/12/2001 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 21 
+Data inizio attività: 15/02/2001 
+Attività: PROGETTAZIONE, SVILUPPO E MANUTENZIONE DI PRODOTTI SOFTWARE C. Attività: 62.09.09 I / 62.09.09 P
+ulisse.intra.infocamere.it/ulis/get-document-content.action 24/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Capitale Sociale: deliberato 60.000,00 
+Valuta capitale sociale: EURO 
+98) Prov: VR Sezioni RI: O - A - E 
+Data iscrizione RI: 24/05/2013 
+N.REA: 399430 F.G.: SR 
+Denominazione: PNG SRL 
+C.fiscale: 04186220234 Partita IVA: 04186220234 
+Indirizzo: VIA G. BARUCCHI, 37 
+Comune: 37139 VERONA - VR 
+Indirizzo posta certificata: PNGSERVICES@PEC.NET 
+N.AA: VR-144140 Data dom./accert.: 05/06/2013 Data delibera: 11/06/2013 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 1 dipendenti: 14 
+Data inizio attività: 05/06/2013 
+Attività: CONSULENZA, PRODUZIONE ED ASSISTENZA SOFTWARE CREAZIONE, MANUTENZIONE E GESTIONE SITI INTERNET SERVIZI DI CONNESSIONE SU RETE, IN PARTICOLARE SU INTERNET (HOSTING E PROVIDER) (DAL 05/06/2013) 
+C. Attività: 62.02 I / 62.02 A / 46.51 S / 62.01 S / 63.11.3 S 
+Capitale Sociale: deliberato 2.000,00 
+Valuta capitale sociale: EURO 
+99) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 22/03/2012 
+N.REA: 391646 F.G.: SR 
+Denominazione: POWERAPP S.R.L. 
+C.fiscale: 02957041201 Partita IVA: 02957041201 
+Indirizzo: VIA THOMAS ALVA EDISON, 12 
+Comune: 37136 VERONA - VR 
+Indirizzo posta certificata: PEC@PEC.POWERAPP.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 8 
+Data inizio attività: 13/03/2012 
+Attività: PRODUZIONE, SVILUPPO SOFTWARE E CONSULENZA TECNICO SCIENTIFICA IN AMBITO INFORMATICO (DAL 13/03/2012). 
+C. Attività: 62.01 I / 62.01 P / 62.02 S / 73.11.02 S 
+Capitale Sociale: deliberato 50.000,00 
+Valuta capitale sociale: EURO 
+100) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 22/05/2018 
+N.REA: 431264 F.G.: SR 
+Denominazione: Q GENIUS S.R.L. 
+C.fiscale: 01762360335 Partita IVA: 01762360335 
+Indirizzo: VIA ALESSANDRO LAMARMORA, 11 
+Comune: 37137 VERONA - VR 
+Indirizzo posta certificata: QGENIUS@PEC.QGENIUS.EU 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 4 
+Data inizio attività: 22/05/2018 
+Attività: PROGETTAZIONE, REALIZZAZIONE,INSTALLAZIONE, E MANUTENZIONE DI PRODOTTI SOFTWARE CHE ABBIANO COME OBIETTIVO LA PROMOZIONE, LA PUBBLICITA', L'ATTIVITA' DI VENDITA E ACQUISTO DI BENI SU RETE INTERNET E LA GESTIONE DEI PROCESSI AZIENDALI ATTRAVERSO STRUMENTI DIGITALI. (DAL 22/05/2018) 
+C. Attività: 62.01 I / 62.01 P 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+101) Prov: VR Sezioni RI: O - M - E 
+Data iscrizione RI: 08/01/2001 
+N.REA: 307785 F.G.: SR 
+Denominazione: REAL T SRL 
+C.fiscale: 03089800233 Partita IVA: 03089800233 
+Telefono: 045/8403277 
+Indirizzo: CORSO VENEZIA, 7 
+Comune: 37131 VERONA - VR 
+Indirizzo posta certificata: REALT@PEC.REALT.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 18 
+Data inizio attività: 01/03/2001 
+Attività: REALIZZAZIONE DI PROGRAMMI E PRODOTTI SOFTWARE CON L'UTILIZZO DI TECNOLOGIE SEMANTICHE E DI INTELLIGENZA ARTIFICIALE ANCHE NEL SETTORE DEL RISPARMIO ENERGETICO, CONSULENZA IN MATERIA DI INFORMATICA (DAL 01/02/2017).
+ulisse.intra.infocamere.it/ulis/get-document-content.action 25/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+C. Attività: 62.01 I / 62.01 P / 62.02 S 
+Capitale Sociale: deliberato 100.000,00 
+Valuta capitale sociale: EURO 
+102) Prov: VR NRI: (VR-2000-62379) Sezioni RI: O - E 
+Data iscrizione RI: 23/11/2000 
+N.REA: 307062 F.G.: SR 
+Denominazione: S.C.S. SURVEY CAD SYSTEM S.R.L. 
+C.fiscale: 03072290236 Partita IVA: 03072290236 
+Indirizzo: VIA FORONI, 23 
+Comune: 37122 VERONA - VR 
+Indirizzo posta certificata: PFCAD@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 12 
+Data inizio attività: 23/11/2000 
+Attività: PRODUZIONE SOFTWARE NON CONNESSO ALL'EDIZIONE, REALIZZAZIONE DI SOFTWARE, CONSULENZA SOFTWARE 
+C. Attività: 62.01 I 
+Capitale Sociale: deliberato 10.200,00 
+Valuta capitale sociale: EURO 
+103) Prov: VR Sezioni RI: O 
+Data iscrizione RI: 28/02/2020 
+N.REA: 442275 F.G.: SR 
+Denominazione: SEVEN BUSINESS S.R.L. 
+C.fiscale: 04704760232 Partita IVA: 04704760232 
+Indirizzo: VIA AURELIO SAFFI, 1 
+Comune: 37123 VERONA - VR 
+Indirizzo posta certificata: SEVENBUSINESS@PEC.NET 
+Data inizio attività: 02/03/2020 
+Attività: AGENTE DI VENDITA DI SERVIZI DI TELECOMUNICAZIONE (DAL 02/03/2020) C. Attività: 61.90.91 I / 61.90.91 P 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+104) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 01/06/2012 
+N.REA: 393084 F.G.: SR 
+Denominazione: SKILL S.R.L. 
+C.fiscale: 04112690237 Partita IVA: 04112690237 
+Indirizzo: VIA FIUMICELLO, 68 
+Comune: 37131 VERONA - VR 
+Indirizzo posta certificata: SKILLSOCIO@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 22 
+Data inizio attività: 01/06/2012 
+Attività: PRODUZIONE SOFTWARE (DAL 01/06/2012) 
+C. Attività: 62.01 I / 62.01 P 
+Capitale Sociale: deliberato 20.000,00 
+Valuta capitale sociale: EURO 
+105) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 03/12/2002 
+N.REA: 322624 F.G.: SR 
+Denominazione: SYS-DAT VERONA SRL 
+C.fiscale: 03268520230 Partita IVA: 03268520230 
+Indirizzo: VIA GIOVANNA MURARI BRA', 35 
+Comune: 37136 VERONA - VR 
+Indirizzo posta certificata: SYSDATVR@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 29 
+Data inizio attività: 01/01/2003 
+Attività: ANALISI PRODUZIONE INSTALLAZIONE E MANUTENZIONE DI SOFTWARE APPLICATIVI E GESTIONALI PER SISTEMI DI ELABORAZIONE ELETTRONICA. CONSULENZA INFORMATICA ED ORGANIZZATIVA DI ASSISTENZA ALL'UTILIZZO DI SISTEMI INFORMATICI ANCHE CON MEZZI TELEFONICI E TELEMATICI MANUTENZIONE SISTEMI ELABORAZIONE ELETTRONICA E PROGRAMMI INFORMATICI. C. Attività: 62.01 P / 95.11 S 
+Capitale Sociale: deliberato 200.000,00 
+Valuta capitale sociale: EURO 
+106) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 30/12/2009
+ulisse.intra.infocamere.it/ulis/get-document-content.action 26/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+N.REA: 375292 F.G.: SR 
+Denominazione: TECHORIZON S.R.L. 
+C.fiscale: 03906630235 Partita IVA: 03906630235 
+Indirizzo: VIA GIORGIO DE SANDRE, 13 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: TECHORIZON@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 17 
+Data inizio attività: 01/04/2010 
+Attività: CONSULENZA NEL SETTORE DELLE TECNOLOGIE DELL'INFORMATICA (DAL 01/04/2010). C. Attività: 62.02 P 
+Capitale Sociale: deliberato 100.000,00 
+Valuta capitale sociale: EURO 
+107) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 02/01/2001 
+N.REA: 307728 F.G.: SP 
+Denominazione: TECMARKET SERVIZI S.P.A. 
+C.fiscale: 03090380233 Partita IVA: 03090380233 
+Indirizzo: VIA MEUCCI, 5 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: SEGRETERIA@PEC.TECMARKET.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 3 
+Data inizio attività: 02/01/2001 
+Attività: STUDIO, REALIZZAZIONE ED OFFERTA DI SERVIZI DI SUPPORTO INFORMATICO CONNESSI CON IL COMMERCIO ELETTRONICO 
+C. Attività: 62.09.09 I / 62.09.09 P 
+Capitale Sociale: deliberato 50.000,00 
+Valuta capitale sociale: EURO 
+108) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 02/07/2019 
+N.REA: 438094 F.G.: SR 
+Denominazione: TELEFONICA S.R.L. 
+C.fiscale: 04652630239 Partita IVA: 04652630239 
+Indirizzo: VIALE DELL'INDUSTRIA, 38 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: telefonicavr@legalmail.it 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 33 
+C. Attività: 62.09.01 I 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+109) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 16/10/2002 
+N.REA: 321808 F.G.: SP 
+Denominazione: TRUEBLUE S.P.A. 
+C.fiscale: 03258370232 Partita IVA: 03258370232 
+Indirizzo: VIALE DEL LAVORO, 33 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: TRUEBLUE@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 191 
+Data inizio attività: 01/01/2003 
+Attività: L'ATTIVITA' PREVALENTE E' QUELLA DI FORNITURE DI SOFTWARE E CONSULENZE INFORMATICHE 
+C. Attività: 62.01 I / 62.01 P 
+Capitale Sociale: deliberato 101.000,00 
+Valuta capitale sociale: EURO 
+110) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 29/08/2013 
+N.REA: 400761 F.G.: SP 
+Denominazione: VALUE TRANSFORMATION SERVICES S.P.A. 
+C.fiscale: 08162580966 Partita IVA: 08162580966 
+Indirizzo: VIA DELLA MECCANICA SNC 
+Comune: 37139 VERONA - VR 
+Indirizzo posta certificata: V-TSERVICES.SPA@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 483 
+Data inizio attività: 01/09/2013 
+Attività: GESTIONE E MANUTENZIONE DEI SISTEMI INTEGRATI, GESTIONE DELLA TRASMISSIONE DELLE
+ulisse.intra.infocamere.it/ulis/get-document-content.action 27/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+INFORMAZIONI RELATIVE 
+C. Attività: 62.09.09 I 
+Capitale Sociale: deliberato 5.000.000,00 
+Valuta capitale sociale: EURO 
+111) Prov: VR NRI: (VR091-14473) Sezioni RI: O - E 
+Data iscrizione RI: 19/02/1996 
+N.REA: 174619 Data iscrizione RD: 12/05/1981 F.G.: SP 
+Denominazione: VECOMP S.P.A. 
+C.fiscale: 01336920234 Partita IVA: 01336920234 
+Telefono: 045/8378311 
+Indirizzo: VIA ALBERTO DOMINUTTI, 2 
+Comune: 37135 VERONA - VR 
+Indirizzo posta certificata: VECOMPSRL@PEC.UNONET.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 57 Data inizio attività: 14/04/1981 
+Attività: CONSULENZA NEL SETTORE DELLE TECNOLOGIE DELL'INFORMATICA (DAL 01/03/2020) C. Attività: 62.02 I / 62.02 P / 46.51 S / 61.90.91 S 
+Capitale Sociale: deliberato 200.000,00 
+Valuta capitale sociale: EURO 
+112) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 02/05/2012 
+N.REA: 392497 F.G.: SR 
+Denominazione: WEBMOTION S.R.L. 
+C.fiscale: 04105790234 Partita IVA: 04105790234 
+Indirizzo: VIA FELICE CAVALLOTTI, 10 
+Comune: 37126 VERONA - VR 
+Indirizzo posta certificata: WEBMOTION@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 3 dipendenti: 6 Data inizio attività: 07/05/2012 
+Attività: CONSULENZA NEL SETTORE DELLE TECNOLOGIE DELL'INFORMATICA (DAL 13/08/2012). C. Attività: 62.02 I / 62.02 P / 47.91.1 S / 62.01 S / 73.11.02 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+113) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 28/05/2009 
+N.REA: 371856 F.G.: SR 
+Denominazione: WIRELESS GROUP COMMUNICATIONS S.R.L. 
+C.fiscale: 03865880235 Partita IVA: 03865880235 
+Indirizzo: VIA DELLA MECCANICA, 27 
+Comune: 37139 VERONA - VR 
+Indirizzo posta certificata: INFO@PEC.WIRELESSGROUP.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 2 Data inizio attività: 18/05/2009 
+Attività: EROGAZIONE DI SERVIZI DI ACCESSO AD INTERNET (ISP) (DAL 18/05/2009) C. Attività: 61.90.1 I / 61.90.1 P / 62.09 S 
+Capitale Sociale: deliberato 120.000,00 
+Valuta capitale sociale: EURO 
+114) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 06/07/2009 
+N.REA: 372515 F.G.: SR 
+Denominazione: WOLNET S.R.L. 
+C.fiscale: 03872930239 Partita IVA: 03872930239 
+Indirizzo: VIA DELLA SCIENZA, 25 
+Comune: 37139 VERONA - VR 
+Indirizzo posta certificata: WOLNEXTSRL@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 22 Data inizio attività: 10/08/2009 
+Attività: PRESTAZIONE DI SERVIZI DELLE TELECOMUNICAZIONI. 
+C. Attività: 61 I / 61 P / 62.01 S / 63.11.2 S / 63.11.3 S / 63.12 S 
+Capitale Sociale: deliberato 65.000,00 
+Valuta capitale sociale: EURO 
+115) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 30/07/2003 
+N.REA: 327768 F.G.: SR
+ulisse.intra.infocamere.it/ulis/get-document-content.action 28/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Denominazione: CIDITECH S.R.L. 
+C.fiscale: 03330700232 Partita IVA: 03330700232 
+Indirizzo: VIA VERONA, 90 
+Comune: 37068 VIGASIO - VR 
+Indirizzo posta certificata: CIDITECH@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 2 
+Data inizio attività: 05/08/2003 
+Attività: DI PROGETTAZIONE, INSTALLAZIONE E MANUTENZIONE DI SOFTWARE, DI CONSULENZA, FORMAZIONE E ADDESTRAMENTO IN MATERIA INFORMATICA. (DAL 05/08/2003) C. Attività: 62.01 P / 85.59.2 S 
+Capitale Sociale: deliberato 10.332,00 
+Valuta capitale sociale: EURO 
+116) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 03/02/2014 
+N.REA: 403576 F.G.: SR 
+Denominazione: VT100 S.R.L. 
+C.fiscale: 04234390237 Partita IVA: 04234390237 
+Indirizzo: VIA ZAMBONINA, 31 
+Comune: 37068 VIGASIO - VR 
+Indirizzo posta certificata: VT100@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 3 
+Data inizio attività: 07/02/2014 
+Attività: SERVIZI DI CONSULENZA INFORMATICA ED ELETTRONICA, PROGETTAZIONE, GESTIONE E MONITORAGGIO DI SISTEMI INFORMATICI, PRODUZIONE DI SOFTWARE ED ELABORAZIONE DATI (DAL 07/02/2014). 
+C. Attività: 62.02 I 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+117) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 04/02/2021 
+N.REA: 446919 F.G.: SR 
+Denominazione: BIANCONIGLIO KIDS S.R.L. 
+C.fiscale: 04784660237 Partita IVA: 04784660237 
+Indirizzo: VIA PRENDAGLIO, 13 
+Comune: 37069 VILLAFRANCA DI VERONA - VR 
+Indirizzo posta certificata: bianconigliokids@pec.net 
+Data inizio attività: 29/01/2021 
+Attività: PROGETTAZIONE, INTEGRAZIONE E SVILUPPO DIGITALE DEI PROCESSI AZIENDALI CON SUPPORTO DI SOFTWARE PRODOTTO INTERNAMENTE O SOFTWARE ESTERNO CON PERSONALIZZAZIONE (DAL 02/01/2024) 
+C. Attività: 62.01 I / 62.01 P / 31.09.1 S 
+Capitale Sociale: deliberato 120.000,00 
+Valuta capitale sociale: EURO 
+118) Prov: VR Sezioni RI: O - A - E 
+Data iscrizione RI: 08/11/2013 
+N.REA: 402030 F.G.: SR 
+Denominazione: COLOMBO 3000 S.R.L. 
+C.fiscale: 04214240238 Partita IVA: 04214240238 
+Indirizzo: VIA MESSEDAGLIA, 104 
+Comune: 37069 VILLAFRANCA DI VERONA - VR 
+Indirizzo posta certificata: AMMINISTRAZIONE@PEC.CONDOMINIOAMICOSRL.COM N.AA: VR-159596 Data dom./accert.: 03/04/2023 Data delibera: 06/04/2023 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 2 dipendenti: 10 
+Data inizio attività: 15/01/2014 
+Attività: PRODUZIONE DI SOFTWARE E FORNITURA DI SERVIZI APPLICATIVI (DAL 15/01/2014) C. Attività: 62.01 I / 62.01 A / 62.02 S / 63.11.3 S / 73.11.01 S / 73.11.02 S 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+119) Prov: VR NRI: (VR091-27523) Sezioni RI: O - E 
+Data iscrizione RI: 19/02/1996 
+N.REA: 215335 Data iscrizione RD: 16/11/1988 F.G.: SR 
+Denominazione: DGROOVE S.R.L. 
+C.fiscale: 02062090234 Partita IVA: 02062090234 
+Indirizzo: VIA MONTE BALDO, 6 
+Comune: 37069 VILLAFRANCA DI VERONA - VR
+ulisse.intra.infocamere.it/ulis/get-document-content.action 29/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Frazione: CALZONI 
+C. strad.: 32024 
+Indirizzo posta certificata: INFO@PEC.DGROOVE.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 35 
+Data inizio attività: 15/11/1988 
+Attività: PRODUZIONE DI PROGRAMMI PER ELABORATORI ELETTRONICI E SISTEMI PROGRAMMABILI IN GENERE 
+C. Attività: 62.01 P / 85.59.2 S / 47.91.1 S 
+Capitale Sociale: deliberato 100.400,00 
+Valuta capitale sociale: EURO 
+120) Prov: VR NRI: (VR-2000-39158) Sezioni RI: O - E 
+Data iscrizione RI: 14/06/2000 
+N.REA: 304563 F.G.: SR 
+Denominazione: FEDERICO FERLINI S.R.L. 
+C.fiscale: 03039460237 Partita IVA: 03039460237 
+Telefono: 045/8600892 
+Indirizzo: VIA DON A. PROVOLO, 18 
+Comune: 37069 VILLAFRANCA DI VERONA - VR 
+Frazione: ALPO 
+Indirizzo posta certificata: F.FERLINI@PEC.FERLINI.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 15 
+Data inizio attività: 19/04/2001 
+Attività: REALIZZAZIONE PROGRAMMI INFORMATICI E CONSULENZA SOFTWARE C. Attività: 62.01 P 
+Capitale Sociale: deliberato 10.400,00 
+Valuta capitale sociale: EURO 
+121) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 08/02/2006 
+N.REA: 346190 F.G.: SR 
+Denominazione: NICOLIS PROJECT S.R.L. 
+C.fiscale: 03557510231 Partita IVA: 03557510231 
+Indirizzo: CASCINA VERDE, 2 
+Comune: 37069 VILLAFRANCA DI VERONA - VR 
+Indirizzo posta certificata: AMMINISTRAZIONE@PEC.NICOLISPROJECT.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 48 
+Data inizio attività: 31/01/2006 
+Attività: PRODUZIONE DI SOFTWARE NON CONNESSO ALL'EDIZIONE (DAL 17/08/2020) C. Attività: 62.01 I / 62.01 P / 47.41 S 
+Capitale Sociale: deliberato 1.000.000,00 
+Valuta capitale sociale: EURO 
+122) Prov: VR Sezioni RI: O 
+Data iscrizione RI: 07/05/2019 
+N.REA: 437154 F.G.: SR 
+Denominazione: OMNIA TRADE S.R.L. 
+C.fiscale: 04640860237 Partita IVA: 04640860237 
+Indirizzo: VIALE DEL LAVORO 18/D 
+Comune: 37069 VILLAFRANCA DI VERONA - VR 
+Indirizzo posta certificata: OMNIATRADE2019@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 1 dipendenti: 0 
+Data inizio attività: 29/05/2019 
+Attività: COMMERCIO ALL'INGROSSO DI COMBUSTIBILE PER USO DOMESTICO E PER RISCALDAMENTO, SENZA DEPOSITO (DAL 29/05/2019). 
+C. Attività: 62.02 I / 62.02 P / 46.71 S / 47.78.4 S 
+Capitale Sociale: deliberato 50.000,00 
+Valuta capitale sociale: EURO 
+123) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 12/01/2017 
+N.REA: 421999 F.G.: SR 
+Denominazione: OPEN MIND GROUP SRL 
+C.fiscale: 04456120239 Partita IVA: 04456120239 
+Indirizzo: VIA VOLTA, 1 
+Comune: 37069 VILLAFRANCA DI VERONA - VR 
+Frazione: DOSSOBUONO 
+Indirizzo posta certificata: OPENMINDGROUP@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 1
+ulisse.intra.infocamere.it/ulis/get-document-content.action 30/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+Data inizio attività: 12/01/2017 
+Attività: FORNITURA DI SERVIZI DI COMUNICAZIONE ON-LINE E OFF-LINE E SOLUZIONI HARDWARE E SOFTWARE BASATE SU TECNOLOGIE DI COMUNICAZIONE DIGITALE (DAL 12/01/2017). C. Attività: 62.09.09 I / 62.09.09 P 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+124) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 19/04/2011 
+N.REA: 385436 F.G.: SR 
+Denominazione: OPEN SERVICE S.R.L. 
+C.fiscale: 04025450232 Partita IVA: 04025450232 
+Indirizzo: VIA ANGELO MESSEDAGLIA 32 A 
+Comune: 37069 VILLAFRANCA DI VERONA - VR 
+Indirizzo posta certificata: OPENSERVICE@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 9 
+Data inizio attività: 08/04/2011 
+Attività: SVILUPPO E ASSISTENZA SOFTWARE (DAL 08/04/2011) 
+C. Attività: 62.01 I 
+Capitale Sociale: deliberato 10.000,00 
+Valuta capitale sociale: EURO 
+125) Prov: VR NRI: (VR-1999-57167) Sezioni RI: O - E 
+Data iscrizione RI: 22/10/1999 
+N.REA: 298753 F.G.: SR 
+Denominazione: SITEM SRL 
+C.fiscale: 02970140238 Partita IVA: 02970140238 
+Indirizzo: VIA A. VOLTA 4/C 
+Comune: 37062 VILLAFRANCA DI VERONA - VR 
+Frazione: DOSSOBUONO 
+Indirizzo posta certificata: SITEMAUTOMAZIONE@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 1 
+Data inizio attività: 01/11/1999 
+Attività: REALIZZAZIONE DI SOFTWARE DI BASE ED APPLICATIVO NEI SETTORI DELLA GESTIONE AZIENDALE E DELL'AUTOMAZIONE INDUSTRIALE LO STUDIO DI SISTEMI INFORMATIVI AZIENDALI C. Attività: 62.01 P 
+Capitale Sociale: deliberato 10.400,00 
+Valuta capitale sociale: EURO 
+126) Prov: VR Sezioni RI: O - M - E 
+Data iscrizione RI: 23/01/2008 
+N.REA: 361776 F.G.: SR 
+Denominazione: 4 FLYING S.R.L. 
+C.fiscale: 03744120233 Partita IVA: 03744120233 
+Telefono: 045/8731908 
+Indirizzo: VIALE EDISON, 6 
+Comune: 37059 ZEVIO - VR 
+Frazione: CAMPAGNOLA 
+Indirizzo posta certificata: AMMINISTRAZIONE@PEC.4-FLYING.COM 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 66 
+Data inizio attività: 01/03/2008 
+Attività: PRODUZIONE DI SOFTWARE DI SISTEMA, APPLICAZIONI SOFTWARE, DATABASE E PAGINE WEB NON CONNESSI ALL'EDIZIONE (DAL 01/03/2021). 
+C. Attività: 62.01 I / 62.01 P / 18.12 S / 18.13 S / 62.02 S / 63.11.19 S / 63.11.3 S / 63.12 S / 73.11.01 S / 74.10.21 S / 74.10.29 S / 74.20.19 S 
+Capitale Sociale: deliberato 500.000,00 
+Valuta capitale sociale: EURO 
+127) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 25/06/2008 
+N.REA: 282757 F.G.: SP 
+Denominazione: RTC S.P.A. 
+C.fiscale: 02776770238 Partita IVA: 02776770238 
+Indirizzo: VIA EDISON, 31 
+Comune: 37059 ZEVIO - VR 
+Alt. ind.: LOCALITA' CAMPAGNOLA 
+Indirizzo posta certificata: RTCSPA@LEGALMAIL.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 56 
+Attività: AMMINISTRAZIONE E DEPOSITO SCRITTURE CONTABILI/SOCIALI, MAGAZZINO E ASSISTENZA
+ulisse.intra.infocamere.it/ulis/get-document-content.action 31/32 
+22/04/24, 09:48 Ulisse — InfoCamere 
+TECNICA IVI COMPRESA LA COMPRAVENDITA DI HARDWARE EVENTUALMENTE PREVISTA NEL PIU' AMPIO CONTRATTO DI PRESTAZIONE DI SERVIZI INFORMATICI 
+C. Attività: 62.09.09 I 
+Capitale Sociale: deliberato 1.774.000,00 
+Valuta capitale sociale: EURO 
+128) Prov: VR Sezioni RI: O - E 
+Data iscrizione RI: 05/03/2010 
+N.REA: 377092 F.G.: SR 
+Denominazione: V.L.I. S.R.L. 
+C.fiscale: 03930060235 Partita IVA: 03930060235 
+Indirizzo: VIA CARDUCCI 18/B 
+Comune: 37059 ZEVIO - VR 
+Indirizzo posta certificata: VLISRL@PEC.IT 
+Numero addetti dell'impresa dichiarati nel 2023: indipendenti: 0 dipendenti: 22 Data inizio attività: 10/03/2010 
+Attività: COMMERCIO AL DETTAGLIO DI SISTEMI DI SICUREZZA, DI COMPUTER, DI PERIFERICHE, ATTREZZATURE PER LE COMUNICAZIONI, ELETTRONICA, AUDIO, VIDEO ED ELETTRODOMESTICI. C. Attività: 62.02 I / 43.21.01 P / 68.1 S / 43.22.01 S / 43.22.02 S / 43.22.03 S / 43.21.02 S Capitale Sociale: deliberato 11.000,00 
+Valuta capitale sociale: EURO
+ulisse.intra.infocamere.it/ulis/get-document-content.action 32/32
